@@ -1,0 +1,216 @@
+
+dragon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_dragon/1_Z1
+  rotate: false
+  xy: 650, 1295
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+images_dragon/1_Z2
+  rotate: false
+  xy: 539, 1523
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+images_dragon/1_Z3
+  rotate: false
+  xy: 2, 1210
+  size: 63, 58
+  orig: 63, 59
+  offset: 0, 1
+  index: -1
+images_dragon/Body
+  rotate: true
+  xy: 1471, 1353
+  size: 691, 534
+  orig: 691, 534
+  offset: 0, 0
+  index: -1
+images_dragon/Face
+  rotate: false
+  xy: 279, 1341
+  size: 258, 249
+  orig: 258, 249
+  offset: 0, 0
+  index: -1
+images_dragon/Leg1
+  rotate: false
+  xy: 1467, 1232
+  size: 431, 119
+  orig: 431, 119
+  offset: 0, 0
+  index: -1
+images_dragon/Leg2
+  rotate: false
+  xy: 1467, 1111
+  size: 431, 119
+  orig: 431, 119
+  offset: 0, 0
+  index: -1
+images_dragon/Leg3
+  rotate: true
+  xy: 1346, 1136
+  size: 434, 119
+  orig: 434, 119
+  offset: 0, 0
+  index: -1
+images_dragon/Swing1
+  rotate: false
+  xy: 2, 1706
+  size: 746, 338
+  orig: 748, 340
+  offset: 1, 1
+  index: -1
+images_dragon/Swing2
+  rotate: false
+  xy: 750, 1874
+  size: 719, 170
+  orig: 721, 172
+  offset: 1, 1
+  index: -1
+images_dragon/Tail
+  rotate: false
+  xy: 750, 1534
+  size: 594, 338
+  orig: 594, 338
+  offset: 0, 0
+  index: -1
+images_dragon/mouth
+  rotate: false
+  xy: 597, 1632
+  size: 148, 72
+  orig: 150, 74
+  offset: 1, 1
+  index: -1
+images_fire/1
+  rotate: true
+  xy: 539, 1305
+  size: 59, 109
+  orig: 198, 323
+  offset: 65, 23
+  index: -1
+images_fire/2
+  rotate: true
+  xy: 2, 1382
+  size: 109, 242
+  orig: 198, 323
+  offset: 40, 22
+  index: -1
+images_fire/2_1
+  rotate: true
+  xy: 2, 1601
+  size: 103, 296
+  orig: 198, 323
+  offset: 39, 22
+  index: -1
+images_fire/2_2
+  rotate: true
+  xy: 2, 1493
+  size: 106, 275
+  orig: 198, 323
+  offset: 39, 15
+  index: -1
+images_fire/2_3
+  rotate: true
+  xy: 300, 1592
+  size: 112, 295
+  orig: 198, 323
+  offset: 33, 18
+  index: -1
+images_fire/3
+  rotate: false
+  xy: 1900, 1086
+  size: 136, 265
+  orig: 198, 323
+  offset: 26, 22
+  index: -1
+images_fire/4
+  rotate: false
+  xy: 597, 1366
+  size: 132, 264
+  orig: 198, 323
+  offset: 50, 23
+  index: -1
+images_fire/5
+  rotate: false
+  xy: 1346, 1650
+  size: 122, 222
+  orig: 198, 323
+  offset: 33, 53
+  index: -1
+images_fire/6
+  rotate: true
+  xy: 2, 1270
+  size: 110, 128
+  orig: 198, 323
+  offset: 53, 164
+  index: -1
+images_smoke/Layer 1
+  rotate: false
+  xy: 132, 1228
+  size: 90, 72
+  orig: 123, 290
+  offset: 17, 204
+  index: -1
+images_smoke/Layer 2
+  rotate: true
+  xy: 731, 1358
+  size: 89, 112
+  orig: 123, 290
+  offset: 16, 145
+  index: -1
+images_smoke/Layer 3
+  rotate: true
+  xy: 851, 1445
+  size: 87, 114
+  orig: 123, 290
+  offset: 18, 126
+  index: -1
+images_smoke/Layer 4
+  rotate: true
+  xy: 731, 1449
+  size: 83, 118
+  orig: 123, 290
+  offset: 20, 105
+  index: -1
+images_smoke/Layer 5
+  rotate: true
+  xy: 132, 1302
+  size: 78, 119
+  orig: 123, 290
+  offset: 23, 82
+  index: -1
+images_smoke/Layer 6
+  rotate: true
+  xy: 1346, 1572
+  size: 76, 120
+  orig: 123, 290
+  offset: 23, 58
+  index: -1
+images_smoke/Layer 7
+  rotate: true
+  xy: 253, 1275
+  size: 64, 107
+  orig: 123, 290
+  offset: 29, 43
+  index: -1
+images_smoke/Layer 8
+  rotate: false
+  xy: 539, 1412
+  size: 44, 109
+  orig: 123, 290
+  offset: 35, 17
+  index: -1
+images_smoke/Layer 9
+  rotate: true
+  xy: 2007, 2000
+  size: 44, 37
+  orig: 123, 290
+  offset: 39, 10
+  index: -1

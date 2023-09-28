@@ -1,0 +1,27 @@
+
+coconot.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_coconot/10_Coconut1
+  rotate: false
+  xy: 762, 1673
+  size: 123, 130
+  orig: 123, 130
+  offset: 0, 0
+  index: -1
+images_coconot/10_Coconut2
+  rotate: true
+  xy: 2, 2
+  size: 501, 897
+  orig: 501, 897
+  offset: 0, 0
+  index: -1
+images_coconot/10_Coconut3
+  rotate: false
+  xy: 2, 505
+  size: 758, 1298
+  orig: 758, 1298
+  offset: 0, 0
+  index: -1

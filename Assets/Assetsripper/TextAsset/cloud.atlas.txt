@@ -1,0 +1,69 @@
+
+cloud.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud/Layer_10
+  rotate: false
+  xy: 2, 382
+  size: 271, 127
+  orig: 271, 127
+  offset: 0, 0
+  index: -1
+cloud/Layer_4
+  rotate: false
+  xy: 342, 47
+  size: 132, 55
+  orig: 132, 55
+  offset: 0, 0
+  index: -1
+cloud/Layer_6
+  rotate: false
+  xy: 2, 44
+  size: 203, 64
+  orig: 203, 64
+  offset: 0, 0
+  index: -1
+cloud/Layer_7
+  rotate: true
+  xy: 275, 246
+  size: 263, 140
+  orig: 263, 140
+  offset: 0, 0
+  index: -1
+cloud/Layer_9
+  rotate: true
+  xy: 2, 110
+  size: 270, 128
+  orig: 270, 128
+  offset: 0, 0
+  index: -1
+cloud/cloud_set1
+  rotate: true
+  xy: 417, 306
+  size: 203, 64
+  orig: 203, 64
+  offset: 0, 0
+  index: -1
+cloud/cloud_set_2
+  rotate: false
+  xy: 246, 104
+  size: 263, 140
+  orig: 263, 140
+  offset: 0, 0
+  index: -1
+cloud/cloud_set_3
+  rotate: false
+  xy: 207, 47
+  size: 133, 55
+  orig: 133, 55
+  offset: 0, 0
+  index: -1
+cloud/set
+  rotate: false
+  xy: 132, 128
+  size: 112, 252
+  orig: 112, 252
+  offset: 0, 0
+  index: -1

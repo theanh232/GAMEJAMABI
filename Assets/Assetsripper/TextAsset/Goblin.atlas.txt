@@ -1,0 +1,258 @@
+
+Goblin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_goblin/0
+  rotate: false
+  xy: 650, 1780
+  size: 299, 265
+  orig: 311, 277
+  offset: 6, 5
+  index: -1
+images_goblin/1
+  rotate: true
+  xy: 951, 1535
+  size: 251, 264
+  orig: 311, 277
+  offset: 54, 5
+  index: -1
+images_goblin/2
+  rotate: true
+  xy: 1686, 692
+  size: 169, 256
+  orig: 311, 277
+  offset: 136, 5
+  index: -1
+images_goblin/3
+  rotate: true
+  xy: 650, 1360
+  size: 158, 245
+  orig: 311, 277
+  offset: 146, 5
+  index: -1
+images_goblin/4
+  rotate: false
+  xy: 1900, 1362
+  size: 145, 245
+  orig: 311, 277
+  offset: 159, 5
+  index: -1
+images_goblin/Body
+  rotate: true
+  xy: 1148, 1063
+  size: 219, 277
+  orig: 220, 278
+  offset: 0, 1
+  index: -1
+images_goblin/Cloth
+  rotate: true
+  xy: 1217, 1550
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+images_goblin/Cloth2
+  rotate: false
+  xy: 1707, 1035
+  size: 227, 149
+  orig: 228, 149
+  offset: 0, 0
+  index: -1
+images_goblin/Emoji1_b
+  rotate: false
+  xy: 1495, 1552
+  size: 98, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images_goblin/Emoji2
+  rotate: true
+  xy: 690, 886
+  size: 472, 142
+  orig: 472, 142
+  offset: 0, 0
+  index: -1
+images_goblin/Emoji3
+  rotate: false
+  xy: 1217, 1644
+  size: 472, 142
+  orig: 472, 142
+  offset: 0, 0
+  index: -1
+images_goblin/Eye_Flash
+  rotate: false
+  xy: 834, 919
+  size: 472, 142
+  orig: 472, 142
+  offset: 0, 0
+  index: -1
+images_goblin/Goblin1_Spidernet
+  rotate: false
+  xy: 2, 1352
+  size: 646, 693
+  orig: 646, 693
+  offset: 0, 0
+  index: -1
+images_goblin/Hand1
+  rotate: true
+  xy: 650, 1520
+  size: 258, 288
+  orig: 258, 291
+  offset: 0, 1
+  index: -1
+images_goblin/Hand2
+  rotate: true
+  xy: 1691, 1609
+  size: 204, 292
+  orig: 204, 293
+  offset: 0, 1
+  index: -1
+images_goblin/Hat
+  rotate: false
+  xy: 690, 452
+  size: 199, 254
+  orig: 199, 254
+  offset: 0, 0
+  index: -1
+images_goblin/Leg1
+  rotate: true
+  xy: 1292, 413
+  size: 174, 283
+  orig: 174, 283
+  offset: 0, 0
+  index: -1
+images_goblin/Leg2
+  rotate: false
+  xy: 1092, 450
+  size: 198, 256
+  orig: 198, 256
+  offset: 0, 0
+  index: -1
+images_goblin/Mace
+  rotate: true
+  xy: 897, 1063
+  size: 455, 249
+  orig: 456, 250
+  offset: 1, 0
+  index: -1
+images_goblin/Shield
+  rotate: true
+  xy: 1244, 1815
+  size: 230, 343
+  orig: 230, 343
+  offset: 0, 0
+  index: -1
+images_goblin/Shoulder
+  rotate: false
+  xy: 1451, 668
+  size: 233, 193
+  orig: 233, 193
+  offset: 0, 0
+  index: -1
+images_goblin/emoji4
+  rotate: true
+  xy: 1308, 589
+  size: 472, 141
+  orig: 472, 142
+  offset: 0, 1
+  index: -1
+images_goblin/goblin_hoada/Body copy
+  rotate: true
+  xy: 1427, 1063
+  size: 219, 277
+  orig: 220, 278
+  offset: 0, 1
+  index: -1
+images_goblin/goblin_hoada/Cloth copy
+  rotate: true
+  xy: 1356, 1550
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+images_goblin/goblin_hoada/Cloth2 copy
+  rotate: false
+  xy: 1707, 885
+  size: 227, 148
+  orig: 228, 149
+  offset: 0, 1
+  index: -1
+images_goblin/goblin_hoada/Hand1 copy
+  rotate: true
+  xy: 951, 1788
+  size: 257, 291
+  orig: 258, 291
+  offset: 1, 0
+  index: -1
+images_goblin/goblin_hoada/Hand2 copy
+  rotate: true
+  xy: 1605, 1361
+  size: 204, 293
+  orig: 204, 293
+  offset: 0, 0
+  index: -1
+images_goblin/goblin_hoada/Hat copy
+  rotate: false
+  xy: 891, 452
+  size: 199, 254
+  orig: 199, 254
+  offset: 0, 0
+  index: -1
+images_goblin/goblin_hoada/Head_Preview copy
+  rotate: false
+  xy: 690, 708
+  size: 472, 176
+  orig: 472, 177
+  offset: 0, 1
+  index: -1
+images_goblin/goblin_hoada/Leg1 copy
+  rotate: true
+  xy: 1706, 1186
+  size: 173, 283
+  orig: 174, 283
+  offset: 0, 0
+  index: -1
+images_goblin/goblin_hoada/Leg2 copy
+  rotate: true
+  xy: 1451, 863
+  size: 198, 254
+  orig: 198, 256
+  offset: 0, 1
+  index: -1
+images_goblin/goblin_hoada/Mace copy
+  rotate: false
+  xy: 1148, 1284
+  size: 455, 249
+  orig: 456, 250
+  offset: 1, 0
+  index: -1
+images_goblin/goblin_hoada/Shield copy
+  rotate: true
+  xy: 1589, 1815
+  size: 230, 343
+  orig: 230, 343
+  offset: 0, 0
+  index: -1
+images_goblin/goblin_hoada/Shoulder copy
+  rotate: true
+  xy: 1577, 434
+  size: 232, 193
+  orig: 233, 193
+  offset: 0, 0
+  index: -1
+images_goblin2/Goblin2_Frezze
+  rotate: false
+  xy: 2, 695
+  size: 686, 655
+  orig: 686, 655
+  offset: 0, 0
+  index: -1
+ob/Play Coin
+  rotate: true
+  xy: 1595, 1567
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1

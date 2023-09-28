@@ -1,0 +1,139 @@
+
+31_Bucket.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_bucket/Layer 1
+  rotate: false
+  xy: 182, 341
+  size: 194, 64
+  orig: 196, 66
+  offset: 1, 1
+  index: -1
+images_bucket/Layer 2
+  rotate: true
+  xy: 841, 1000
+  size: 161, 42
+  orig: 163, 44
+  offset: 1, 1
+  index: -1
+images_bucket/Vector Smart Object
+  rotate: true
+  xy: 2, 54
+  size: 198, 175
+  orig: 200, 178
+  offset: 1, 1
+  index: -1
+images_bucket/effect/1
+  rotate: false
+  xy: 885, 999
+  size: 51, 48
+  orig: 487, 490
+  offset: 1, 421
+  index: -1
+images_bucket/effect/10
+  rotate: true
+  xy: 349, 2
+  size: 337, 45
+  orig: 487, 490
+  offset: 150, 0
+  index: -1
+images_bucket/effect/2
+  rotate: true
+  xy: 885, 1049
+  size: 112, 66
+  orig: 487, 490
+  offset: 0, 404
+  index: -1
+images_bucket/effect/3
+  rotate: true
+  xy: 179, 75
+  size: 177, 168
+  orig: 487, 490
+  offset: 0, 320
+  index: -1
+images_bucket/effect/4
+  rotate: true
+  xy: 513, 233
+  size: 274, 272
+  orig: 487, 490
+  offset: 1, 218
+  index: -1
+images_bucket/effect/5
+  rotate: false
+  xy: 1040, 646
+  size: 276, 357
+  orig: 487, 490
+  offset: 27, 131
+  index: -1
+images_bucket/effect/6
+  rotate: false
+  xy: 1040, 219
+  size: 267, 425
+  orig: 487, 490
+  offset: 112, 36
+  index: -1
+images_bucket/effect/7
+  rotate: true
+  xy: 996, 1005
+  size: 248, 403
+  orig: 487, 490
+  offset: 186, 18
+  index: -1
+images_bucket/effect/8
+  rotate: true
+  xy: 537, 1000
+  size: 161, 302
+  orig: 487, 490
+  offset: 223, 7
+  index: -1
+images_bucket/effect/9
+  rotate: false
+  xy: 182, 407
+  size: 322, 88
+  orig: 487, 490
+  offset: 119, 1
+  index: -1
+images_firespider/1
+  rotate: false
+  xy: 2, 254
+  size: 178, 241
+  orig: 178, 241
+  offset: 0, 0
+  index: -1
+images_firespider/2
+  rotate: true
+  xy: 996, 1255
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+images_firespider/3
+  rotate: true
+  xy: 537, 1163
+  size: 375, 457
+  orig: 375, 457
+  offset: 0, 0
+  index: -1
+images_firespider/4
+  rotate: true
+  xy: 2, 497
+  size: 497, 509
+  orig: 497, 509
+  offset: 0, 0
+  index: -1
+images_firespider/5
+  rotate: false
+  xy: 2, 996
+  size: 533, 542
+  orig: 533, 542
+  offset: 0, 0
+  index: -1
+images_firespider/6
+  rotate: false
+  xy: 513, 509
+  size: 525, 485
+  orig: 526, 486
+  offset: 0, 0
+  index: -1

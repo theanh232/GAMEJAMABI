@@ -1,0 +1,62 @@
+
+34_Tiger.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_tiger/Layer_10
+  rotate: true
+  xy: 81, 441
+  size: 56, 101
+  orig: 56, 101
+  offset: 0, 0
+  index: -1
+images_tiger/Layer_2
+  rotate: false
+  xy: 2, 450
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+images_tiger/Layer_3
+  rotate: true
+  xy: 279, 407
+  size: 90, 204
+  orig: 90, 204
+  offset: 0, 0
+  index: -1
+images_tiger/Layer_4
+  rotate: false
+  xy: 184, 413
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+images_tiger/Layer_5
+  rotate: false
+  xy: 2, 2
+  size: 353, 247
+  orig: 353, 339
+  offset: 0, 92
+  index: -1
+images_tiger/Layer_7
+  rotate: true
+  xy: 121, 273
+  size: 132, 188
+  orig: 132, 188
+  offset: 0, 0
+  index: -1
+images_tiger/Layer_8
+  rotate: false
+  xy: 2, 323
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+images_tiger/Layer_9
+  rotate: true
+  xy: 311, 251
+  size: 154, 170
+  orig: 154, 170
+  offset: 0, 0
+  index: -1

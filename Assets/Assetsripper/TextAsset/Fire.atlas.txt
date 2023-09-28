@@ -1,0 +1,83 @@
+
+Fire.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14_Fire/1
+  rotate: false
+  xy: 319, 680
+  size: 315, 286
+  orig: 317, 311
+  offset: 1, 0
+  index: -1
+14_Fire/10
+  rotate: false
+  xy: 636, 350
+  size: 315, 204
+  orig: 317, 311
+  offset: 1, 0
+  index: -1
+14_Fire/11
+  rotate: false
+  xy: 636, 144
+  size: 315, 204
+  orig: 317, 311
+  offset: 1, 0
+  index: -1
+14_Fire/2
+  rotate: false
+  xy: 2, 350
+  size: 315, 303
+  orig: 317, 311
+  offset: 1, 0
+  index: -1
+14_Fire/3
+  rotate: false
+  xy: 2, 655
+  size: 315, 311
+  orig: 317, 311
+  offset: 1, 0
+  index: -1
+14_Fire/4
+  rotate: false
+  xy: 319, 414
+  size: 315, 264
+  orig: 317, 311
+  offset: 1, 0
+  index: -1
+14_Fire/5
+  rotate: false
+  xy: 2, 75
+  size: 315, 273
+  orig: 317, 311
+  offset: 1, 0
+  index: -1
+14_Fire/6
+  rotate: false
+  xy: 636, 762
+  size: 315, 204
+  orig: 317, 311
+  offset: 1, 0
+  index: -1
+14_Fire/7
+  rotate: false
+  xy: 319, 208
+  size: 315, 204
+  orig: 317, 311
+  offset: 1, 0
+  index: -1
+14_Fire/8
+  rotate: false
+  xy: 636, 556
+  size: 315, 204
+  orig: 317, 311
+  offset: 1, 0
+  index: -1
+14_Fire/9
+  rotate: false
+  xy: 319, 2
+  size: 315, 204
+  orig: 317, 311
+  offset: 1, 0
+  index: -1

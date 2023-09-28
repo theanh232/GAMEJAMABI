@@ -1,0 +1,279 @@
+
+m37_lv4_mouse.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_37_04_mouse/Body
+  rotate: true
+  xy: 2, 13
+  size: 344, 274
+  orig: 344, 274
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/Ear1
+  rotate: true
+  xy: 554, 7
+  size: 87, 98
+  orig: 89, 100
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/Ear2
+  rotate: false
+  xy: 1091, 25
+  size: 71, 107
+  orig: 74, 109
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/Eye2
+  rotate: false
+  xy: 987, 502
+  size: 33, 38
+  orig: 35, 41
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/Face2
+  rotate: false
+  xy: 1237, 11
+  size: 144, 149
+  orig: 145, 149
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/Hair1
+  rotate: false
+  xy: 554, 96
+  size: 175, 272
+  orig: 175, 272
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/Layer 60
+  rotate: true
+  xy: 1332, 959
+  size: 59, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/Leg1
+  rotate: false
+  xy: 1037, 134
+  size: 151, 237
+  orig: 151, 237
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/Leg2
+  rotate: false
+  xy: 987, 781
+  size: 151, 237
+  orig: 151, 237
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/Leg3
+  rotate: true
+  xy: 862, 373
+  size: 127, 255
+  orig: 127, 263
+  offset: 0, 8
+  index: -1
+images_37_04_mouse/Leg4
+  rotate: false
+  xy: 862, 761
+  size: 123, 257
+  orig: 123, 257
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/Nose
+  rotate: true
+  xy: 1190, 162
+  size: 225, 141
+  orig: 225, 148
+  offset: 0, 7
+  index: -1
+images_37_04_mouse/Tail
+  rotate: false
+  xy: 1140, 805
+  size: 190, 213
+  orig: 190, 213
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/Teeth1
+  rotate: false
+  xy: 1237, 549
+  size: 50, 39
+  orig: 52, 41
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/skinhoada/Teeth1 copy 3
+  rotate: false
+  xy: 1237, 549
+  size: 50, 39
+  orig: 52, 41
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/Teeth2
+  rotate: false
+  xy: 1289, 549
+  size: 48, 39
+  orig: 50, 41
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/Teeth3
+  rotate: false
+  xy: 1193, 544
+  size: 42, 44
+  orig: 44, 46
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/skinhoada/Teeth3 copy 2
+  rotate: false
+  xy: 1193, 544
+  size: 42, 44
+  orig: 44, 46
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/Tongue
+  rotate: false
+  xy: 951, 2
+  size: 68, 112
+  orig: 68, 112
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/Wolf_Freeze
+  rotate: true
+  xy: 432, 370
+  size: 648, 428
+  orig: 648, 428
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/Wolf_SpiderNet
+  rotate: true
+  xy: 2, 359
+  size: 659, 428
+  orig: 875, 428
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/eyes_1
+  rotate: true
+  xy: 754, 7
+  size: 87, 67
+  orig: 90, 69
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/eyes_2
+  rotate: false
+  xy: 1140, 542
+  size: 51, 46
+  orig: 53, 49
+  offset: 1, 2
+  index: -1
+images_37_04_mouse/eyes_close
+  rotate: true
+  xy: 892, 8
+  size: 86, 57
+  orig: 89, 59
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/skinhoada/Body copy 2
+  rotate: true
+  xy: 278, 13
+  size: 344, 274
+  orig: 344, 274
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/skinhoada/Ear1 copy 2
+  rotate: true
+  xy: 654, 7
+  size: 87, 98
+  orig: 89, 100
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/skinhoada/Ear2 copy 2
+  rotate: false
+  xy: 1164, 25
+  size: 71, 107
+  orig: 74, 109
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/skinhoada/Eye1 copy 3
+  rotate: true
+  xy: 823, 7
+  size: 87, 67
+  orig: 90, 69
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/skinhoada/Eye2 copy 2
+  rotate: false
+  xy: 1022, 502
+  size: 33, 38
+  orig: 35, 41
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/skinhoada/Face2 copy 2
+  rotate: false
+  xy: 1383, 11
+  size: 144, 149
+  orig: 145, 149
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/skinhoada/Hair1 copy 2
+  rotate: false
+  xy: 731, 96
+  size: 175, 272
+  orig: 175, 272
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/skinhoada/Leg1 copy 2
+  rotate: false
+  xy: 987, 542
+  size: 151, 237
+  orig: 151, 237
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/skinhoada/Leg2 copy 2
+  rotate: true
+  xy: 1119, 389
+  size: 151, 237
+  orig: 151, 237
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/skinhoada/Leg3 copy 2
+  rotate: false
+  xy: 908, 116
+  size: 127, 255
+  orig: 127, 263
+  offset: 0, 8
+  index: -1
+images_37_04_mouse/skinhoada/Leg4 copy 2
+  rotate: false
+  xy: 862, 502
+  size: 123, 257
+  orig: 123, 257
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/skinhoada/Nose copy 2
+  rotate: true
+  xy: 1333, 162
+  size: 225, 141
+  orig: 225, 148
+  offset: 0, 7
+  index: -1
+images_37_04_mouse/skinhoada/Tail copy 2
+  rotate: false
+  xy: 1140, 590
+  size: 190, 213
+  orig: 190, 213
+  offset: 0, 0
+  index: -1
+images_37_04_mouse/skinhoada/Teeth2 copy 2
+  rotate: true
+  xy: 1332, 909
+  size: 48, 39
+  orig: 50, 41
+  offset: 1, 1
+  index: -1
+images_37_04_mouse/skinhoada/Tongue copy 2
+  rotate: false
+  xy: 1021, 2
+  size: 68, 112
+  orig: 68, 112
+  offset: 0, 0
+  index: -1

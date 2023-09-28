@@ -1,0 +1,34 @@
+
+44_SnakeBasket.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_snake01/images_snake/Layer_2
+  rotate: false
+  xy: 2, 240
+  size: 376, 235
+  orig: 376, 235
+  offset: 0, 0
+  index: -1
+images_snake01/images_snake/body
+  rotate: false
+  xy: 2, 2
+  size: 275, 236
+  orig: 275, 236
+  offset: 0, 0
+  index: -1
+images_snake01/images_snake/luoi
+  rotate: false
+  xy: 279, 198
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+images_snake01/images_snake/mouse
+  rotate: true
+  xy: 279, 162
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1

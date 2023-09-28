@@ -1,0 +1,328 @@
+
+108_Giant.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_Giant/Asset 3
+  rotate: true
+  xy: 584, 119
+  size: 140, 239
+  orig: 140, 239
+  offset: 0, 0
+  index: -1
+images_Giant/Giant_SpiderNet
+  rotate: false
+  xy: 336, 779
+  size: 339, 353
+  orig: 343, 353
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_10
+  rotate: false
+  xy: 755, 2
+  size: 95, 115
+  orig: 95, 115
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_11
+  rotate: false
+  xy: 630, 1198
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_12
+  rotate: false
+  xy: 771, 1403
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_13
+  rotate: false
+  xy: 549, 1520
+  size: 123, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_14
+  rotate: false
+  xy: 407, 1805
+  size: 140, 239
+  orig: 140, 239
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_15
+  rotate: false
+  xy: 307, 17
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_16
+  rotate: false
+  xy: 722, 1347
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_17
+  rotate: true
+  xy: 2, 3
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_18
+  rotate: false
+  xy: 667, 1333
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_2
+  rotate: false
+  xy: 549, 1648
+  size: 150, 173
+  orig: 150, 173
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_3
+  rotate: true
+  xy: 2, 592
+  size: 540, 332
+  orig: 540, 332
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_4
+  rotate: false
+  xy: 336, 432
+  size: 246, 345
+  orig: 246, 345
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_5
+  rotate: true
+  xy: 407, 1183
+  size: 138, 221
+  orig: 138, 221
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_6
+  rotate: false
+  xy: 2, 1590
+  size: 403, 454
+  orig: 403, 454
+  offset: 0, 0
+  index: -1
+images_Giant/Layer_9
+  rotate: false
+  xy: 584, 520
+  size: 137, 257
+  orig: 137, 257
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Asset 3
+  rotate: false
+  xy: 407, 1564
+  size: 140, 239
+  orig: 140, 239
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_10
+  rotate: false
+  xy: 674, 1402
+  size: 95, 115
+  orig: 95, 115
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_11
+  rotate: false
+  xy: 674, 1519
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_12
+  rotate: false
+  xy: 701, 1755
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_13
+  rotate: false
+  xy: 549, 1392
+  size: 123, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_14
+  rotate: false
+  xy: 407, 1323
+  size: 140, 239
+  orig: 140, 239
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_15
+  rotate: false
+  xy: 335, 17
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_16
+  rotate: false
+  xy: 788, 1700
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_17
+  rotate: true
+  xy: 57, 3
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_18
+  rotate: false
+  xy: 630, 1139
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_2
+  rotate: false
+  xy: 689, 1871
+  size: 150, 173
+  orig: 150, 173
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_3
+  rotate: true
+  xy: 2, 50
+  size: 540, 332
+  orig: 540, 332
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_4
+  rotate: false
+  xy: 336, 85
+  size: 246, 345
+  orig: 246, 345
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_5
+  rotate: false
+  xy: 549, 1823
+  size: 138, 221
+  orig: 138, 221
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_6
+  rotate: false
+  xy: 2, 1134
+  size: 403, 454
+  orig: 403, 454
+  offset: 0, 0
+  index: -1
+images_Giant/images_Giant_hoada/Layer_9
+  rotate: false
+  xy: 584, 261
+  size: 137, 257
+  orig: 137, 257
+  offset: 0, 0
+  index: -1
+images_princess/star/Layer 1
+  rotate: true
+  xy: 157, 6
+  size: 42, 40
+  orig: 44, 42
+  offset: 1, 1
+  index: -1
+images_princess/star/Layer 179 copy
+  rotate: true
+  xy: 273, 14
+  size: 34, 32
+  orig: 36, 34
+  offset: 1, 1
+  index: -1
+images_princess/star/Layer 180 copy 2
+  rotate: false
+  xy: 112, 5
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+images_princess/star/Layer 2
+  rotate: true
+  xy: 199, 6
+  size: 42, 38
+  orig: 44, 42
+  offset: 1, 2
+  index: -1
+images_princess/star/Layer 180 copy
+  rotate: true
+  xy: 199, 6
+  size: 42, 38
+  orig: 44, 42
+  offset: 1, 2
+  index: -1
+images_scorpion/hoamat1
+  rotate: true
+  xy: 239, 11
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+ob/1_Z1
+  rotate: true
+  xy: 548, 9
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+ob/1_Z2
+  rotate: false
+  xy: 549, 1323
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+ob/1_Z3
+  rotate: true
+  xy: 607, 1327
+  size: 63, 58
+  orig: 63, 59
+  offset: 0, 1
+  index: -1
+ob/beer1
+  rotate: false
+  xy: 457, 23
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+ob/beer2
+  rotate: false
+  xy: 619, 16
+  size: 134, 101
+  orig: 134, 101
+  offset: 0, 0
+  index: -1
+ob/beerblu
+  rotate: true
+  xy: 701, 1664
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+ob/beerred
+  rotate: false
+  xy: 363, 7
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1

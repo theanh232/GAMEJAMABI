@@ -1,0 +1,27 @@
+
+Home_Icon3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_iconbook3/book
+  rotate: false
+  xy: 2, 36
+  size: 129, 123
+  orig: 129, 123
+  offset: 0, 0
+  index: -1
+images_iconbook3/daibang1
+  rotate: false
+  xy: 133, 98
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+images_iconbook3/daibang2
+  rotate: false
+  xy: 133, 130
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

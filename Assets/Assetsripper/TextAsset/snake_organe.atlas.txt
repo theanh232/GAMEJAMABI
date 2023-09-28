@@ -1,0 +1,13 @@
+
+snake_organe.png
+size: 129,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_snake01/Layer_19
+  rotate: false
+  xy: 2, 2
+  size: 125, 102
+  orig: 125, 102
+  offset: 0, 0
+  index: -1

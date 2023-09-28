@@ -1,0 +1,34 @@
+
+16_Tree.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_tree/Layer 2
+  rotate: true
+  xy: 910, 93
+  size: 87, 100
+  orig: 88, 101
+  offset: 0, 1
+  index: -1
+images_tree/Layer 4
+  rotate: false
+  xy: 259, 45
+  size: 649, 135
+  orig: 650, 137
+  offset: 1, 1
+  index: -1
+images_tree/Layer 5
+  rotate: false
+  xy: 2, 2
+  size: 255, 178
+  orig: 256, 178
+  offset: 1, 0
+  index: -1
+images_tree/Vector Smart Object1
+  rotate: false
+  xy: 2, 182
+  size: 1083, 1579
+  orig: 1083, 1579
+  offset: 0, 0
+  index: -1

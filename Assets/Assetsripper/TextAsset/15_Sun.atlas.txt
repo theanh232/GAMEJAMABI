@@ -1,0 +1,62 @@
+
+15_Sun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_sun/body
+  rotate: false
+  xy: 626, 315
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+images_sun/eye
+  rotate: true
+  xy: 668, 183
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+images_sun/light1
+  rotate: true
+  xy: 626, 447
+  size: 157, 156
+  orig: 157, 156
+  offset: 0, 0
+  index: -1
+images_sun/light2
+  rotate: false
+  xy: 2, 285
+  size: 622, 544
+  orig: 622, 545
+  offset: 0, 1
+  index: -1
+images_sun/mouth
+  rotate: true
+  xy: 626, 241
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+images_sun/tucgian1
+  rotate: false
+  xy: 668, 282
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+images_sun/tucgian2
+  rotate: false
+  xy: 693, 263
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+images_sun/vienmattroi
+  rotate: true
+  xy: 626, 606
+  size: 223, 203
+  orig: 223, 203
+  offset: 0, 0
+  index: -1

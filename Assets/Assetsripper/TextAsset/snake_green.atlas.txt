@@ -1,0 +1,13 @@
+
+snake_green.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_snake01/Layer_18
+  rotate: false
+  xy: 2, 2
+  size: 166, 175
+  orig: 176, 175
+  offset: 0, 0
+  index: -1

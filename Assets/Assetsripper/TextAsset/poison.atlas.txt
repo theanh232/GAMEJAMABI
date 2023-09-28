@@ -1,0 +1,104 @@
+
+poison.png
+size: 1090,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_map3_poison/3_Poison_B1
+  rotate: true
+  xy: 441, 96
+  size: 207, 153
+  orig: 207, 153
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_B2
+  rotate: true
+  xy: 596, 97
+  size: 206, 134
+  orig: 206, 134
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_B3
+  rotate: false
+  xy: 909, 160
+  size: 179, 143
+  orig: 179, 143
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_B4
+  rotate: true
+  xy: 129, 96
+  size: 207, 154
+  orig: 207, 154
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_B5
+  rotate: true
+  xy: 285, 96
+  size: 207, 154
+  orig: 207, 154
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_F1
+  rotate: true
+  xy: 1004, 57
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_F2
+  rotate: true
+  xy: 923, 20
+  size: 138, 79
+  orig: 138, 79
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_F3
+  rotate: false
+  xy: 129, 3
+  size: 162, 91
+  orig: 162, 91
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_F4
+  rotate: false
+  xy: 293, 12
+  size: 169, 82
+  orig: 169, 82
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_F5
+  rotate: false
+  xy: 464, 12
+  size: 169, 82
+  orig: 169, 82
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_F6
+  rotate: false
+  xy: 635, 13
+  size: 169, 82
+  orig: 169, 82
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_F7
+  rotate: true
+  xy: 2, 48
+  size: 255, 125
+  orig: 255, 125
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_F8
+  rotate: false
+  xy: 806, 2
+  size: 115, 102
+  orig: 115, 102
+  offset: 0, 0
+  index: -1
+images_map3_poison/3_Poison_X
+  rotate: false
+  xy: 732, 106
+  size: 175, 197
+  orig: 175, 197
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+31_Dolphin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_dolphin/Layer_2
+  rotate: false
+  xy: 407, 360
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+images_dolphin/Layer_3
+  rotate: false
+  xy: 2, 307
+  size: 403, 203
+  orig: 403, 203
+  offset: 0, 0
+  index: -1
+images_dolphin/Layer_4
+  rotate: true
+  xy: 407, 303
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+images_dolphin/Layer_5
+  rotate: true
+  xy: 407, 435
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
