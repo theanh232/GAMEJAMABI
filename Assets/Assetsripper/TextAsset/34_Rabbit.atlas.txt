@@ -1,0 +1,216 @@
+
+34_Rabbit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_rabbit_1/Layer_10
+  rotate: false
+  xy: 57, 451
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+images_rabbit_1/Layer_11
+  rotate: true
+  xy: 429, 425
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+images_rabbit_1/Layer_8
+  rotate: false
+  xy: 2, 395
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+images_rabbit_1/Layer_9
+  rotate: true
+  xy: 322, 437
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+images_rabbit_1/body
+  rotate: false
+  xy: 145, 284
+  size: 140, 82
+  orig: 140, 82
+  offset: 0, 0
+  index: -1
+images_rabbit_1/ear_1
+  rotate: true
+  xy: 111, 446
+  size: 31, 83
+  orig: 31, 83
+  offset: 0, 0
+  index: -1
+images_rabbit_1/ear_2
+  rotate: false
+  xy: 212, 381
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+images_rabbit_1/eye_scared
+  rotate: false
+  xy: 262, 476
+  size: 52, 18
+  orig: 52, 18
+  offset: 0, 0
+  index: -1
+images_rabbit_1/eyes_2
+  rotate: false
+  xy: 316, 475
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+images_rabbit_1/eyes_3
+  rotate: false
+  xy: 107, 480
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+images_rabbit_1/head
+  rotate: false
+  xy: 358, 356
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+images_rabbit_1/mouth_happy_1
+  rotate: false
+  xy: 43, 482
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+images_rabbit_1/mouth_happy_2
+  rotate: false
+  xy: 64, 482
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+images_rabbit_1/mouth_scared
+  rotate: false
+  xy: 83, 481
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+images_rabbit_1/tail
+  rotate: true
+  xy: 404, 471
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+images_rabbit_2/Layer_10
+  rotate: false
+  xy: 2, 453
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+images_rabbit_2/Layer_11
+  rotate: true
+  xy: 363, 426
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+images_rabbit_2/Layer_8
+  rotate: false
+  xy: 76, 389
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+images_rabbit_2/Layer_9
+  rotate: true
+  xy: 282, 438
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+images_rabbit_2/body
+  rotate: false
+  xy: 2, 305
+  size: 141, 82
+  orig: 141, 82
+  offset: 0, 0
+  index: -1
+images_rabbit_2/ear_1
+  rotate: false
+  xy: 149, 382
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+images_rabbit_2/ear_2
+  rotate: true
+  xy: 196, 443
+  size: 31, 84
+  orig: 31, 84
+  offset: 0, 0
+  index: -1
+images_rabbit_2/eye_scared
+  rotate: false
+  xy: 360, 474
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+images_rabbit_2/eyes_2
+  rotate: false
+  xy: 219, 477
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+images_rabbit_2/eyes_3
+  rotate: false
+  xy: 175, 479
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+images_rabbit_2/head
+  rotate: false
+  xy: 275, 368
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+images_rabbit_2/mouth_happy_1
+  rotate: false
+  xy: 22, 482
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+images_rabbit_2/mouth_happy_2
+  rotate: false
+  xy: 2, 483
+  size: 18, 11
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+images_rabbit_2/mouth_scared
+  rotate: false
+  xy: 151, 480
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+images_rabbit_2/tail
+  rotate: true
+  xy: 450, 470
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1

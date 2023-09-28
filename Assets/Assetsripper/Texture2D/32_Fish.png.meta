@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 6bd1e948e044c044c89ecdaedb5af6b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 372
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: 186, y: -40}
+      - {x: -186, y: -40}
+      - {x: -186, y: 40}
+      - {x: 174, y: 40}
+      - {x: 186, y: 14}
+    physicsShape:
+    - - {x: 98.99999, y: -17}
+      - {x: 129, y: -14.999999}
+      - {x: 137, y: -26}
+      - {x: 151, y: -36}
+      - {x: 156, y: -39}
+      - {x: 179, y: -34}
+      - {x: 186, y: -21}
+      - {x: 186, y: 4.9999995}
+      - {x: 179, y: 16}
+      - {x: 164, y: 22}
+      - {x: 151, y: 19.999998}
+      - {x: 142, y: 17}
+      - {x: 132, y: 1}
+      - {x: 106.99999, y: 0}
+      - {x: 91.99999, y: 14.999999}
+      - {x: 33, y: 39.999996}
+      - {x: -24, y: 39.999996}
+      - {x: -59.999996, y: 24}
+      - {x: -83, y: 19.999998}
+      - {x: -93, y: 12}
+      - {x: -110, y: 18}
+      - {x: -128, y: 25}
+      - {x: -137, y: 13}
+      - {x: -136, y: 7}
+      - {x: -175, y: 6}
+      - {x: -186, y: 0}
+      - {x: -186, y: -6}
+      - {x: -184.99998, y: -7}
+      - {x: -171.99998, y: -12}
+      - {x: -131, y: -16}
+      - {x: -127, y: -21}
+      - {x: -120.99999, y: -22}
+      - {x: -98.99999, y: -14}
+      - {x: -91, y: -17}
+      - {x: -87, y: -29.999998}
+      - {x: -65, y: -32}
+      - {x: 0, y: -38}
+      - {x: 3, y: -39.999996}
+      - {x: 18, y: -39.999996}
+      - {x: 21, y: -39}
+      - {x: 42, y: -31}
+      - {x: 85, y: -24}
+    - - {x: 152, y: -19.999998}
+      - {x: 148, y: -17}
+      - {x: 146.99998, y: -13}
+      - {x: 145.99998, y: -4}
+      - {x: 146.99998, y: -3}
+      - {x: 146.99998, y: -1}
+      - {x: 152, y: 4}
+      - {x: 155, y: 6}
+      - {x: 162, y: 7}
+      - {x: 163, y: 6}
+      - {x: 171.99998, y: 1}
+      - {x: 175, y: -4}
+      - {x: 175, y: -12}
+      - {x: 174, y: -13}
+      - {x: 173, y: -17}
+      - {x: 169, y: -19.999998}
+      - {x: 164, y: -22}
+      - {x: 158, y: -22.999998}
+      - {x: 157, y: -22}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices:
+    - {x: 360, y: 80}
+    - {x: 372, y: 0}
+    - {x: 372, y: 54}
+    - {x: 0, y: 80}
+    - {x: 0, y: 0}
+    indices: 040000000300000001000000000000000100000003000000020000000100000000000000
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,384 @@
+
+Midusa_Small.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_Boom_Explosive/1
+  rotate: true
+  xy: 887, 962
+  size: 124, 127
+  orig: 268, 259
+  offset: 67, 66
+  index: -1
+3_Boom_Explosive/2
+  rotate: false
+  xy: 587, 936
+  size: 160, 150
+  orig: 268, 259
+  offset: 48, 48
+  index: -1
+3_Boom_Explosive/3
+  rotate: false
+  xy: 1596, 1084
+  size: 241, 234
+  orig: 268, 259
+  offset: 14, 13
+  index: -1
+3_Boom_Explosive/4
+  rotate: false
+  xy: 1597, 1320
+  size: 256, 240
+  orig: 268, 259
+  offset: 6, 9
+  index: -1
+3_Boom_Explosive/5
+  rotate: true
+  xy: 1381, 1164
+  size: 175, 161
+  orig: 268, 259
+  offset: 47, 49
+  index: -1
+3_Boom_Explosive/6
+  rotate: false
+  xy: 1381, 1004
+  size: 173, 158
+  orig: 268, 259
+  offset: 42, 50
+  index: -1
+3_Boom_Explosive/7
+  rotate: false
+  xy: 1171, 1156
+  size: 208, 183
+  orig: 268, 259
+  offset: 25, 52
+  index: -1
+images_medusa/Body1
+  rotate: false
+  xy: 1598, 1805
+  size: 403, 241
+  orig: 403, 241
+  offset: 0, 0
+  index: -1
+images_medusa/Body2
+  rotate: false
+  xy: 1855, 1360
+  size: 141, 200
+  orig: 141, 200
+  offset: 0, 0
+  index: -1
+images_medusa/Cloth
+  rotate: true
+  xy: 1171, 1008
+  size: 146, 176
+  orig: 146, 176
+  offset: 0, 0
+  index: -1
+images_medusa/Ear1
+  rotate: true
+  xy: 1090, 813
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+images_medusa/Earing
+  rotate: false
+  xy: 1117, 932
+  size: 116, 74
+  orig: 116, 74
+  offset: 0, 0
+  index: -1
+images_medusa/EyeFlash1
+  rotate: false
+  xy: 2, 1600
+  size: 796, 446
+  orig: 796, 446
+  offset: 0, 0
+  index: -1
+images_medusa/EyeFlash2
+  rotate: false
+  xy: 800, 1600
+  size: 796, 446
+  orig: 796, 446
+  offset: 0, 0
+  index: -1
+images_medusa/Hair0
+  rotate: false
+  xy: 1733, 917
+  size: 100, 165
+  orig: 100, 165
+  offset: 0, 0
+  index: -1
+images_medusa/Hair1
+  rotate: true
+  xy: 1839, 957
+  size: 201, 202
+  orig: 203, 204
+  offset: 1, 1
+  index: -1
+images_medusa/Hair4
+  rotate: true
+  xy: 1016, 868
+  size: 118, 72
+  orig: 119, 73
+  offset: 1, 1
+  index: -1
+images_medusa/Hair5
+  rotate: true
+  xy: 1835, 799
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+images_medusa/Hair6
+  rotate: true
+  xy: 951, 781
+  size: 107, 57
+  orig: 107, 57
+  offset: 0, 0
+  index: -1
+images_medusa/Hair7
+  rotate: false
+  xy: 1016, 988
+  size: 99, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+images_medusa/Hair8
+  rotate: false
+  xy: 887, 890
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images_medusa/Hair9
+  rotate: true
+  xy: 1546, 1475
+  size: 123, 49
+  orig: 123, 49
+  offset: 0, 0
+  index: -1
+images_medusa/Hand1
+  rotate: false
+  xy: 749, 886
+  size: 100, 69
+  orig: 100, 69
+  offset: 0, 0
+  index: -1
+images_medusa/Hand1_A
+  rotate: false
+  xy: 1010, 811
+  size: 77, 55
+  orig: 77, 55
+  offset: 0, 0
+  index: -1
+images_medusa/Hand1a
+  rotate: true
+  xy: 2003, 1518
+  size: 80, 40
+  orig: 81, 40
+  offset: 0, 0
+  index: -1
+images_medusa/Hand1b
+  rotate: true
+  xy: 1235, 936
+  size: 70, 87
+  orig: 70, 87
+  offset: 0, 0
+  index: -1
+images_medusa/Hand1x
+  rotate: true
+  xy: 1324, 917
+  size: 89, 55
+  orig: 90, 57
+  offset: 1, 1
+  index: -1
+images_medusa/Hand2_A
+  rotate: false
+  xy: 2003, 1864
+  size: 42, 182
+  orig: 42, 182
+  offset: 0, 0
+  index: -1
+images_medusa/Hand2a
+  rotate: true
+  xy: 1996, 1259
+  size: 85, 50
+  orig: 87, 50
+  offset: 1, 0
+  index: -1
+images_medusa/Hand2b
+  rotate: true
+  xy: 1235, 844
+  size: 90, 57
+  orig: 92, 59
+  offset: 2, 1
+  index: -1
+images_medusa/Layer 575
+  rotate: false
+  xy: 1998, 1415
+  size: 37, 49
+  orig: 43, 58
+  offset: 6, 3
+  index: -1
+images_medusa/Layer 576
+  rotate: true
+  xy: 1998, 1346
+  size: 29, 43
+  orig: 32, 48
+  offset: 2, 2
+  index: -1
+images_medusa/Layer 582
+  rotate: true
+  xy: 1998, 1377
+  size: 36, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+images_medusa/Layer 583
+  rotate: false
+  xy: 1573, 1361
+  size: 22, 25
+  orig: 33, 33
+  offset: 6, 6
+  index: -1
+images_medusa/Layer 584
+  rotate: true
+  xy: 1996, 1188
+  size: 69, 50
+  orig: 118, 64
+  offset: 3, 4
+  index: -1
+images_medusa/Layer 586
+  rotate: true
+  xy: 1546, 1277
+  size: 109, 25
+  orig: 111, 27
+  offset: 1, 1
+  index: -1
+images_medusa/Layer 589
+  rotate: false
+  xy: 1010, 754
+  size: 71, 55
+  orig: 78, 64
+  offset: 4, 5
+  index: -1
+images_medusa/Layer 590
+  rotate: false
+  xy: 1998, 1466
+  size: 37, 50
+  orig: 42, 58
+  offset: 3, 4
+  index: -1
+images_medusa/Layer 593
+  rotate: false
+  xy: 2, 1045
+  size: 583, 553
+  orig: 583, 553
+  offset: 0, 0
+  index: -1
+images_medusa/Lips
+  rotate: true
+  xy: 1573, 1329
+  size: 30, 17
+  orig: 32, 19
+  offset: 1, 1
+  index: -1
+images_medusa/Lips2
+  rotate: true
+  xy: 1573, 1312
+  size: 15, 21
+  orig: 18, 25
+  offset: 2, 2
+  index: -1
+images_medusa/Midusa_Frezze
+  rotate: true
+  xy: 587, 1088
+  size: 510, 582
+  orig: 510, 582
+  offset: 0, 0
+  index: -1
+images_medusa/medusa_hoa da/Body copy
+  rotate: true
+  xy: 1556, 936
+  size: 146, 175
+  orig: 146, 176
+  offset: 0, 0
+  index: -1
+images_medusa/medusa_hoa da/Body1 copy
+  rotate: false
+  xy: 1598, 1562
+  size: 403, 241
+  orig: 403, 241
+  offset: 0, 0
+  index: -1
+images_medusa/medusa_hoa da/Body2 copy
+  rotate: false
+  xy: 1855, 1160
+  size: 139, 198
+  orig: 141, 200
+  offset: 1, 1
+  index: -1
+images_medusa/medusa_hoa da/Cloth copy
+  rotate: true
+  xy: 749, 957
+  size: 129, 136
+  orig: 129, 136
+  offset: 0, 0
+  index: -1
+images_medusa/medusa_hoa da/Hand 2 copy
+  rotate: false
+  xy: 2003, 1680
+  size: 42, 182
+  orig: 42, 182
+  offset: 0, 0
+  index: -1
+images_medusa/medusa_hoa da/Hand1 copy
+  rotate: false
+  xy: 851, 821
+  size: 98, 67
+  orig: 100, 69
+  offset: 1, 1
+  index: -1
+images_medusa/medusa_hoa da/Hand1_A copy
+  rotate: false
+  xy: 1089, 758
+  size: 75, 53
+  orig: 77, 55
+  offset: 1, 1
+  index: -1
+images_medusa/medusa_hoa da/Hand1x copy
+  rotate: true
+  xy: 1178, 783
+  size: 88, 55
+  orig: 90, 57
+  offset: 1, 1
+  index: -1
+images_medusa/medusa_hoa da/Hand2_A copy
+  rotate: false
+  xy: 2003, 1600
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+images_medusa/medusa_hoa da/Hand2a copy
+  rotate: true
+  xy: 1546, 1388
+  size: 85, 48
+  orig: 87, 50
+  offset: 1, 1
+  index: -1
+images_medusa/medusa_hoa da/Hand2b copy
+  rotate: false
+  xy: 1090, 873
+  size: 90, 57
+  orig: 92, 59
+  offset: 1, 1
+  index: -1
+images_medusa/medusa_hoa da/Head 1 copy
+  rotate: false
+  xy: 1171, 1341
+  size: 373, 257
+  orig: 373, 258
+  offset: 0, 0
+  index: -1

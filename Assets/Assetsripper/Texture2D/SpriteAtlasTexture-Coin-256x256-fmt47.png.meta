@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: a97e5fc7f575a404bad9480d6ecffc98
+timeCreated: 1695913507
+licenseType: Free
+TextureImporter:
+  serializedVersion: 11
+  objectHideFlags: 0
+  correspondingSourceObject: {fileID: 0}
+  prefabInstance: {fileID: 0}
+  prefabAsset: {fileID: 0}
+  name:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Coin4
+  - first:
+      213: 21300002
+    second: Coin2
+  - first:
+      213: 21300004
+    second: Coin1
+  - first:
+      213: 21300006
+    second: Coin3
+  - first:
+      213: 21300008
+    second: Play Coin
+  externalObjects: {}
+  usedFileIDs: []
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coin4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 62
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -28}
+        - {x: -31, y: -8}
+        - {x: -31, y: 19}
+        - {x: -27.000002, y: 28}
+        - {x: 28, y: 28}
+        - {x: 31, y: 20}
+        - {x: 31, y: -6}
+        - {x: 15.000001, y: -25}
+        - {x: 8, y: -28}
+      physicsShape:
+      - - {x: -22, y: 28}
+        - {x: -31, y: 14.999999}
+        - {x: -31, y: 2}
+        - {x: -9.999999, y: -22}
+        - {x: -3, y: -28}
+        - {x: 7, y: -28}
+        - {x: 31, y: -8}
+        - {x: 31, y: 19.999998}
+        - {x: 26, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050a1e1f3fec4cdab990a5c0583ebf9d
+      internalID: 21300000
+      vertices:
+      - {x: 59, y: 56}
+      - {x: 62, y: 22}
+      - {x: 62, y: 48}
+      - {x: 46, y: 3}
+      - {x: 39, y: 0}
+      - {x: 19, y: 0}
+      - {x: 3.999998, y: 56}
+      - {x: 0, y: 47}
+      - {x: 0, y: 20}
+      indices:
+      - 8
+      - 7
+      - 5
+      - 6
+      - 5
+      - 7
+      - 0
+      - 5
+      - 6
+      - 4
+      - 5
+      - 0
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 74
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -29.499998}
+        - {x: -37, y: -7.5000005}
+        - {x: -37, y: 15.5}
+        - {x: -29, y: 25.5}
+        - {x: -25, y: 29.499998}
+        - {x: 28, y: 29.499998}
+        - {x: 37, y: 23.5}
+        - {x: 37, y: -2.5}
+        - {x: 22, y: -29.499998}
+      physicsShape:
+      - - {x: 37, y: 16.5}
+        - {x: 24, y: 29.499998}
+        - {x: -22.999998, y: 29.499998}
+        - {x: -37, y: 18.5}
+        - {x: -37, y: 5.5}
+        - {x: -11, y: -29.499998}
+        - {x: 4, y: -29.499998}
+        - {x: 12, y: -22.5}
+        - {x: 33, y: -3.5}
+        - {x: 37, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4173a3e5a74dffbd28912c09788245
+      internalID: 21300002
+      vertices:
+      - {x: 65, y: 59}
+      - {x: 74, y: 27}
+      - {x: 74, y: 53}
+      - {x: 59, y: 1.9073486E-06}
+      - {x: 28, y: 1.9073486E-06}
+      - {x: 12, y: 59}
+      - {x: 8, y: 55}
+      - {x: 0, y: 45}
+      - {x: 0, y: 22}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 58
+        width: 64
+        height: 52.923878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5007192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -26.461935}
+        - {x: -32, y: -2.461937}
+        - {x: -32, y: 12.538063}
+        - {x: -26, y: 25.538063}
+        - {x: -21, y: 26.538061}
+        - {x: 20, y: 26.538061}
+        - {x: 32, y: 13.538064}
+        - {x: 32, y: 0.53806305}
+        - {x: 9, y: -26.461935}
+      physicsShape:
+      - - {x: 19.999998, y: 24.538061}
+        - {x: -22, y: 24.538061}
+        - {x: -31, y: 14.538063}
+        - {x: -31, y: 2.5380628}
+        - {x: -9, y: -26.461935}
+        - {x: 6, y: -26.461935}
+        - {x: 31, y: 3.538063}
+        - {x: 31, y: 9.538063}
+        - {x: 29.999998, y: 11.538062}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e1812de204645a04e868f0384bf11
+      internalID: 21300004
+      vertices:
+      - {x: 52, y: 53}
+      - {x: 64, y: 27}
+      - {x: 64, y: 40}
+      - {x: 41, y: 1.9073486E-06}
+      - {x: 27, y: 1.9073486E-06}
+      - {x: 11, y: 53}
+      - {x: 6, y: 52}
+      - {x: 0, y: 39}
+      - {x: 0, y: 24}
+      indices:
+      - 8
+      - 7
+      - 4
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 75
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -35}
+        - {x: -37.5, y: -30.000002}
+        - {x: -37.5, y: 10}
+        - {x: -20.5, y: 35}
+        - {x: 37.5, y: 35}
+        - {x: 37.5, y: -13}
+        - {x: 9.5, y: -35}
+      physicsShape:
+      - - {x: 37.5, y: 18}
+        - {x: 30.5, y: 35}
+        - {x: -1.5, y: 35}
+        - {x: -17.5, y: 26}
+        - {x: -34.5, y: 7}
+        - {x: -37.5, y: 4}
+        - {x: -37.5, y: -14}
+        - {x: -34.5, y: -29}
+        - {x: -20.5, y: -34}
+        - {x: -10.5, y: -34}
+        - {x: 0.5, y: -33}
+        - {x: 13.499999, y: -26.999998}
+        - {x: 31.5, y: -11}
+        - {x: 37.5, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d963dd367e87482595e7467419cb4978
+      internalID: 21300006
+      vertices:
+      - {x: 75, y: 70}
+      - {x: 47, y: 0}
+      - {x: 75, y: 22}
+      - {x: 17, y: 70}
+      - {x: 7, y: 0}
+      - {x: 0, y: 45}
+      - {x: 0, y: 4.999998}
+      indices:
+      - 6
+      - 5
+      - 4
+      - 3
+      - 4
+      - 5
+      - 1
+      - 4
+      - 3
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Coin
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -38}
+        - {x: -37.5, y: -36}
+        - {x: -37.5, y: 36}
+        - {x: -35.5, y: 38}
+        - {x: 28.5, y: 38}
+        - {x: 37.5, y: 35}
+        - {x: 37.5, y: -37}
+        - {x: 33.5, y: -38}
+      physicsShape:
+      - - {x: 21.499998, y: 38}
+        - {x: -21.499998, y: 38}
+        - {x: -37.5, y: 19}
+        - {x: -37.5, y: -18}
+        - {x: -25.5, y: -35}
+        - {x: -19.5, y: -38}
+        - {x: 23.5, y: -38}
+        - {x: 35.5, y: -29}
+        - {x: 37.5, y: -19.999998}
+        - {x: 37.5, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeedcd8e462b493b94ff372ec93e2689
+      internalID: 21300008
+      vertices:
+      - {x: 75, y: 73}
+      - {x: 71, y: 0}
+      - {x: 75, y: 1}
+      - {x: 66, y: 76}
+      - {x: 2, y: 76}
+      - {x: 2, y: 0}
+      - {x: 0, y: 74}
+      - {x: 0, y: 2}
+      indices:
+      - 7
+      - 6
+      - 5
+      - 4
+      - 5
+      - 6
+      - 1
+      - 5
+      - 4
+      - 3
+      - 1
+      - 4
+      - 0
+      - 1
+      - 3
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

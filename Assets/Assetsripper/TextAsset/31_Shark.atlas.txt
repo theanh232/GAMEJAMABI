@@ -1,0 +1,90 @@
+
+31_Shark.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_shark/31_SharkRope
+  rotate: false
+  xy: 675, 893
+  size: 132, 129
+  orig: 132, 130
+  offset: 0, 0
+  index: -1
+images_shark/Layer_10
+  rotate: true
+  xy: 164, 964
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+images_shark/Layer_2
+  rotate: true
+  xy: 240, 931
+  size: 91, 98
+  orig: 91, 98
+  offset: 0, 0
+  index: -1
+images_shark/Layer_3
+  rotate: false
+  xy: 340, 898
+  size: 165, 124
+  orig: 165, 124
+  offset: 0, 0
+  index: -1
+images_shark/Layer_4
+  rotate: false
+  xy: 2, 996
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+images_shark/Layer_5
+  rotate: false
+  xy: 40, 990
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+images_shark/Layer_6
+  rotate: true
+  xy: 809, 786
+  size: 236, 190
+  orig: 236, 190
+  offset: 0, 0
+  index: -1
+images_shark/Layer_7
+  rotate: false
+  xy: 613, 528
+  size: 409, 256
+  orig: 409, 256
+  offset: 0, 0
+  index: -1
+images_shark/Layer_8
+  rotate: false
+  xy: 507, 897
+  size: 166, 125
+  orig: 166, 125
+  offset: 0, 0
+  index: -1
+images_shark/Layer_9
+  rotate: false
+  xy: 93, 980
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+images_shark/freezen water
+  rotate: false
+  xy: 2, 760
+  size: 521, 135
+  orig: 521, 135
+  offset: 0, 0
+  index: -1
+images_shark/ho1
+  rotate: false
+  xy: 2, 572
+  size: 609, 186
+  orig: 609, 186
+  offset: 0, 0
+  index: -1

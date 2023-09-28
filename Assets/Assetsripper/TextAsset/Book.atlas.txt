@@ -1,0 +1,83 @@
+
+Book.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_iconbook1/Layer_10
+  rotate: false
+  xy: 244, 1812
+  size: 601, 216
+  orig: 601, 216
+  offset: 0, 0
+  index: -1
+images_iconbook1/Layer_12
+  rotate: false
+  xy: 847, 1734
+  size: 713, 294
+  orig: 713, 294
+  offset: 0, 0
+  index: -1
+images_iconbook1/Layer_3
+  rotate: false
+  xy: 2, 1980
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+images_iconbook1/Layer_4
+  rotate: true
+  xy: 1482, 993
+  size: 739, 546
+  orig: 749, 546
+  offset: 5, 0
+  index: -1
+images_iconbook1/Layer_6
+  rotate: false
+  xy: 551, 772
+  size: 825, 490
+  orig: 825, 490
+  offset: 0, 0
+  index: -1
+images_iconbook1/Layer_8
+  rotate: false
+  xy: 180, 1967
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+images_iconbook1/Layer_9
+  rotate: true
+  xy: 102, 1978
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+images_iconbook2/Layer_12
+  rotate: false
+  xy: 2, 1516
+  size: 689, 294
+  orig: 713, 295
+  offset: 23, 0
+  index: -1
+images_iconbook2/Layer_3
+  rotate: false
+  xy: 52, 1980
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+images_iconbook2/Layer_4
+  rotate: true
+  xy: 2, 775
+  size: 739, 547
+  orig: 739, 547
+  offset: 0, 0
+  index: -1
+images_iconbook2/Layer_6
+  rotate: false
+  xy: 693, 1264
+  size: 787, 468
+  orig: 825, 490
+  offset: 19, 11
+  index: -1

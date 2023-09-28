@@ -1,0 +1,160 @@
+
+61_Frog.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images3/Rhand2
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_10
+  rotate: true
+  xy: 1004, 516
+  size: 201, 301
+  orig: 201, 301
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_11
+  rotate: false
+  xy: 392, 6
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_12
+  rotate: true
+  xy: 612, 38
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_13
+  rotate: false
+  xy: 1207, 751
+  size: 182, 269
+  orig: 182, 269
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_14
+  rotate: true
+  xy: 1238, 62
+  size: 182, 262
+  orig: 182, 262
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_15
+  rotate: true
+  xy: 442, 2
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_16
+  rotate: true
+  xy: 527, 2
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_17
+  rotate: false
+  xy: 2, 49
+  size: 414, 37
+  orig: 414, 37
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_19
+  rotate: false
+  xy: 2, 447
+  size: 521, 573
+  orig: 521, 573
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_3
+  rotate: false
+  xy: 702, 35
+  size: 534, 107
+  orig: 534, 107
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_4
+  rotate: false
+  xy: 2, 88
+  size: 698, 357
+  orig: 698, 357
+  offset: 0, 0
+  index: -1
+images_Frog/Layer_9
+  rotate: false
+  xy: 1004, 719
+  size: 201, 301
+  orig: 201, 301
+  offset: 0, 0
+  index: -1
+images_Frog2/Layer_10
+  rotate: false
+  xy: 905, 144
+  size: 201, 302
+  orig: 201, 302
+  offset: 0, 0
+  index: -1
+images_Frog2/Layer_11
+  rotate: false
+  xy: 292, 5
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+images_Frog2/Layer_12
+  rotate: false
+  xy: 342, 5
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+images_Frog2/Layer_13
+  rotate: false
+  xy: 1108, 246
+  size: 182, 268
+  orig: 182, 268
+  offset: 0, 0
+  index: -1
+images_Frog2/Layer_14
+  rotate: false
+  xy: 1292, 253
+  size: 182, 261
+  orig: 182, 261
+  offset: 0, 0
+  index: -1
+images_Frog2/Layer_17
+  rotate: false
+  xy: 2, 11
+  size: 288, 36
+  orig: 288, 36
+  offset: 0, 0
+  index: -1
+images_Frog2/Layer_19
+  rotate: false
+  xy: 525, 448
+  size: 477, 572
+  orig: 477, 572
+  offset: 0, 0
+  index: -1
+images_Frog2/Layer_2
+  rotate: true
+  xy: 1307, 570
+  size: 179, 122
+  orig: 179, 122
+  offset: 0, 0
+  index: -1
+images_Frog2/Layer_9
+  rotate: false
+  xy: 702, 144
+  size: 201, 302
+  orig: 201, 302
+  offset: 0, 0
+  index: -1

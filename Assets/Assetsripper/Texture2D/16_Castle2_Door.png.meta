@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 241917120b5a45d40b29329d0b9d5729
+timeCreated: 1695913485
+licenseType: Free
+TextureImporter:
+  serializedVersion: 11
+  objectHideFlags: 0
+  correspondingSourceObject: {fileID: 0}
+  prefabInstance: {fileID: 0}
+  prefabAsset: {fileID: 0}
+  name:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 16_Castle2_Door
+  externalObjects: {}
+  usedFileIDs: []
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 697
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16_Castle2_Door
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 9.07612
+        width: 217.84775
+        height: 678.8478
+      alignment: 9
+      pivot: {x: 0.5068856, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.99999, y: -289.5}
+        - {x: -108.99999, y: -287.5}
+        - {x: -108.99999, y: 318.5}
+        - {x: -107.99999, y: 319.5}
+        - {x: -107.99999, y: 337.5}
+        - {x: -106, y: 339.5}
+        - {x: -95.99999, y: 339.5}
+        - {x: -86.99999, y: 338.5}
+        - {x: -85.99999, y: 337.5}
+        - {x: -66.99999, y: 336.5}
+        - {x: -65.99999, y: 335.5}
+        - {x: -56.99999, y: 335.5}
+        - {x: -47.999992, y: 334.5}
+        - {x: -46.999992, y: 333.5}
+        - {x: -37.999992, y: 333.5}
+        - {x: -36.999992, y: 332.5}
+        - {x: -18.999992, y: 331.5}
+        - {x: -17.999992, y: 330.5}
+        - {x: -8.999992, y: 330.5}
+        - {x: -7.9999924, y: 329.5}
+        - {x: 10.000008, y: 328.5}
+        - {x: 11.000008, y: 327.5}
+        - {x: 20.000008, y: 327.5}
+        - {x: 21.000008, y: 326.5}
+        - {x: 39.000008, y: 325.5}
+        - {x: 40.000008, y: 324.5}
+        - {x: 49.000008, y: 324.5}
+        - {x: 50.000008, y: 323.5}
+        - {x: 68.00001, y: 322.5}
+        - {x: 69.00001, y: 321.5}
+        - {x: 88.00001, y: 320.5}
+        - {x: 97.00001, y: 319.5}
+        - {x: 98.00001, y: 318.5}
+        - {x: 107, y: 318.5}
+        - {x: 109.000015, y: 316.5}
+        - {x: 109.000015, y: -337.5}
+        - {x: 107, y: -339.5}
+        - {x: 102.00001, y: -339.5}
+        - {x: 86.00001, y: -335.5}
+        - {x: 81.00001, y: -334.5}
+        - {x: 69.00001, y: -331.5}
+        - {x: 56.000008, y: -328.5}
+        - {x: 14.000008, y: -318.5}
+        - {x: 6.0000076, y: -316.5}
+        - {x: -6.9999924, y: -313.5}
+        - {x: -90.99999, y: -293.5}
+      physicsShape:
+      - - {x: 90.00001, y: 319.5}
+        - {x: 70.00001, y: 321.5}
+        - {x: 61.000004, y: 322.5}
+        - {x: 41.000008, y: 324.5}
+        - {x: 32.000008, y: 325.5}
+        - {x: 12.000008, y: 327.5}
+        - {x: -5.999992, y: 328.5}
+        - {x: -6.9999924, y: 329.49997}
+        - {x: -26.999992, y: 331.49997}
+        - {x: -44.999992, y: 332.49997}
+        - {x: -45.999992, y: 333.5}
+        - {x: -55.999992, y: 334.5}
+        - {x: -64.99999, y: 335.5}
+        - {x: -84.99999, y: 337.5}
+        - {x: -93.99999, y: 338.5}
+        - {x: -103.999985, y: 339.5}
+        - {x: -105.999985, y: 339.5}
+        - {x: -107.99999, y: 337.5}
+        - {x: -107.99999, y: -157.5}
+        - {x: -108.99999, y: -158.49998}
+        - {x: -108.99999, y: -286.5}
+        - {x: -106.999985, y: -288.5}
+        - {x: -99.99999, y: -290.5}
+        - {x: 89.00001, y: -335.5}
+        - {x: 106, y: -339.5}
+        - {x: 109, y: -338.5}
+        - {x: 109, y: 315.5}
+        - {x: 107, y: 317.5}
+        - {x: 91.00001, y: 318.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae86ec2df6a249d1a488068081667734
+      internalID: 21300000
+      vertices:
+      - {x: 216, y: 667}
+      - {x: 218, y: 11}
+      - {x: 218, y: 665}
+      - {x: 216, y: 9}
+      - {x: 211, y: 9}
+      - {x: 207, y: 667}
+      - {x: 206, y: 668}
+      - {x: 197, y: 669}
+      - {x: 195, y: 13}
+      - {x: 190, y: 14}
+      - {x: 178, y: 670}
+      - {x: 178, y: 17}
+      - {x: 177, y: 671}
+      - {x: 165, y: 20}
+      - {x: 159, y: 672}
+      - {x: 158, y: 673}
+      - {x: 149, y: 673}
+      - {x: 148, y: 674}
+      - {x: 130, y: 675}
+      - {x: 129, y: 676}
+      - {x: 123, y: 30}
+      - {x: 120, y: 676}
+      - {x: 119, y: 677}
+      - {x: 115, y: 32}
+      - {x: 102, y: 35}
+      - {x: 101, y: 678}
+      - {x: 100, y: 679}
+      - {x: 91, y: 679}
+      - {x: 90, y: 680}
+      - {x: 72, y: 681}
+      - {x: 71, y: 682}
+      - {x: 62, y: 682}
+      - {x: 61, y: 683}
+      - {x: 52.000004, y: 684}
+      - {x: 43, y: 684}
+      - {x: 42, y: 685}
+      - {x: 23, y: 686}
+      - {x: 22, y: 687}
+      - {x: 18, y: 55}
+      - {x: 13, y: 688}
+      - {x: 2.9999924, y: 688}
+      - {x: 2, y: 59}
+      - {x: 1, y: 686}
+      - {x: 1, y: 668}
+      - {x: 0, y: 667}
+      - {x: 0, y: 61}
+      indices:
+      - 45
+      - 44
+      - 41
+      - 43
+      - 41
+      - 44
+      - 42
+      - 41
+      - 43
+      - 40
+      - 41
+      - 42
+      - 38
+      - 41
+      - 40
+      - 39
+      - 38
+      - 40
+      - 37
+      - 38
+      - 39
+      - 24
+      - 38
+      - 37
+      - 36
+      - 24
+      - 37
+      - 35
+      - 24
+      - 36
+      - 34
+      - 24
+      - 35
+      - 33
+      - 24
+      - 34
+      - 32
+      - 24
+      - 33
+      - 31
+      - 24
+      - 32
+      - 30
+      - 24
+      - 31
+      - 29
+      - 24
+      - 30
+      - 28
+      - 24
+      - 29
+      - 27
+      - 24
+      - 28
+      - 26
+      - 24
+      - 27
+      - 25
+      - 24
+      - 26
+      - 22
+      - 24
+      - 25
+      - 23
+      - 24
+      - 22
+      - 20
+      - 23
+      - 22
+      - 21
+      - 20
+      - 22
+      - 19
+      - 20
+      - 21
+      - 13
+      - 20
+      - 19
+      - 18
+      - 13
+      - 19
+      - 17
+      - 13
+      - 18
+      - 16
+      - 13
+      - 17
+      - 15
+      - 13
+      - 16
+      - 14
+      - 13
+      - 15
+      - 12
+      - 13
+      - 14
+      - 11
+      - 13
+      - 12
+      - 10
+      - 11
+      - 12
+      - 9
+      - 11
+      - 10
+      - 7
+      - 9
+      - 10
+      - 8
+      - 9
+      - 7
+      - 4
+      - 8
+      - 7
+      - 6
+      - 4
+      - 7
+      - 5
+      - 4
+      - 6
+      - 0
+      - 4
+      - 5
+      - 3
+      - 4
+      - 0
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,132 @@
+
+losegame.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2 copy 61
+  rotate: true
+  xy: 587, 243
+  size: 108, 150
+  orig: 108, 150
+  offset: 0, 0
+  index: -1
+Arrow
+  rotate: true
+  xy: 726, 38
+  size: 203, 98
+  orig: 207, 100
+  offset: 2, 1
+  index: -1
+Arrow copy
+  rotate: true
+  xy: 588, 56
+  size: 185, 136
+  orig: 188, 138
+  offset: 1, 1
+  index: -1
+Arrow copy 2
+  rotate: true
+  xy: 960, 799
+  size: 217, 48
+  orig: 219, 50
+  offset: 1, 1
+  index: -1
+Arrow copy 3
+  rotate: true
+  xy: 941, 495
+  size: 210, 75
+  orig: 212, 78
+  offset: 1, 2
+  index: -1
+Banner
+  rotate: false
+  xy: 2, 762
+  size: 852, 254
+  orig: 852, 254
+  offset: 0, 0
+  index: -1
+Group 1
+  rotate: false
+  xy: 313, 640
+  size: 488, 120
+  orig: 490, 122
+  offset: 1, 1
+  index: -1
+Group 30
+  rotate: true
+  xy: 855, 451
+  size: 254, 84
+  orig: 256, 86
+  offset: 1, 1
+  index: -1
+Group 35
+  rotate: true
+  xy: 368, 18
+  size: 184, 218
+  orig: 186, 220
+  offset: 1, 1
+  index: -1
+Layer 154
+  rotate: true
+  xy: 760, 348
+  size: 290, 93
+  orig: 290, 93
+  offset: 0, 0
+  index: -1
+Layer 168
+  rotate: false
+  xy: 300, 204
+  size: 285, 149
+  orig: 287, 151
+  offset: 1, 1
+  index: -1
+Layer 169
+  rotate: true
+  xy: 602, 353
+  size: 285, 156
+  orig: 287, 158
+  offset: 1, 1
+  index: -1
+Layer 36
+  rotate: true
+  xy: 856, 707
+  size: 309, 102
+  orig: 311, 104
+  offset: 1, 1
+  index: -1
+Layer_1
+  rotate: true
+  xy: 2, 28
+  size: 112, 364
+  orig: 143, 395
+  offset: 15, 15
+  index: -1
+Shield
+  rotate: false
+  xy: 2, 424
+  size: 309, 336
+  orig: 311, 338
+  offset: 1, 1
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 855, 340
+  size: 135, 109
+  orig: 137, 111
+  offset: 1, 1
+  index: -1
+glow_crown
+  rotate: false
+  xy: 313, 355
+  size: 287, 283
+  orig: 327, 323
+  offset: 20, 18
+  index: -1
+glow_wings
+  rotate: false
+  xy: 2, 142
+  size: 296, 280
+  orig: 296, 280
+  offset: 0, 0
+  index: -1

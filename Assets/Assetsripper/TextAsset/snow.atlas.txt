@@ -1,0 +1,55 @@
+
+snow.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_princess/pond
+  rotate: true
+  xy: 246, 475
+  size: 245, 37
+  orig: 245, 37
+  offset: 0, 0
+  index: -1
+images_snow/Layer_2
+  rotate: false
+  xy: 2, 332
+  size: 242, 388
+  orig: 242, 388
+  offset: 0, 0
+  index: -1
+images_snow/Layer_3
+  rotate: false
+  xy: 307, 938
+  size: 91, 196
+  orig: 91, 196
+  offset: 0, 0
+  index: -1
+images_snow/Layer_4
+  rotate: true
+  xy: 285, 500
+  size: 220, 219
+  orig: 220, 219
+  offset: 0, 0
+  index: -1
+images_snow/Layer_5
+  rotate: false
+  xy: 2, 722
+  size: 303, 412
+  orig: 303, 412
+  offset: 0, 0
+  index: -1
+images_snow/Layer_7
+  rotate: false
+  xy: 2, 2
+  size: 325, 328
+  orig: 325, 328
+  offset: 0, 0
+  index: -1
+images_snow/Layer_8
+  rotate: true
+  xy: 246, 372
+  size: 101, 193
+  orig: 101, 193
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+monkey.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images_monkey/Layer_10
+  rotate: false
+  xy: 141, 251
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_11
+  rotate: true
+  xy: 148, 251
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_12
+  rotate: false
+  xy: 2, 246
+  size: 137, 232
+  orig: 137, 232
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_13
+  rotate: false
+  xy: 356, 358
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_14
+  rotate: false
+  xy: 190, 149
+  size: 82, 106
+  orig: 82, 106
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_16
+  rotate: true
+  xy: 2, 83
+  size: 161, 186
+  orig: 161, 186
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_2
+  rotate: true
+  xy: 317, 185
+  size: 166, 67
+  orig: 166, 67
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_20
+  rotate: true
+  xy: 141, 353
+  size: 125, 213
+  orig: 125, 213
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_21
+  rotate: false
+  xy: 190, 61
+  size: 72, 86
+  orig: 72, 86
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_3
+  rotate: true
+  xy: 141, 257
+  size: 94, 174
+  orig: 94, 174
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_4
+  rotate: false
+  xy: 274, 197
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_6
+  rotate: true
+  xy: 65, 27
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_7
+  rotate: true
+  xy: 2, 24
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+Images_monkey/Layer_9
+  rotate: false
+  xy: 274, 128
+  size: 107, 55
+  orig: 107, 55
+  offset: 0, 0
+  index: -1

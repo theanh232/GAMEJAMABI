@@ -1,0 +1,48 @@
+
+10_Eagle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_eagle/Layer_11
+  rotate: true
+  xy: 897, 888
+  size: 128, 119
+  orig: 128, 119
+  offset: 0, 0
+  index: -1
+images_eagle/Layer_21
+  rotate: false
+  xy: 897, 786
+  size: 113, 100
+  orig: 113, 100
+  offset: 0, 0
+  index: -1
+images_eagle/Layer_24
+  rotate: false
+  xy: 407, 820
+  size: 314, 196
+  orig: 314, 196
+  offset: 0, 0
+  index: -1
+images_eagle/Layer_6
+  rotate: false
+  xy: 2, 773
+  size: 403, 243
+  orig: 403, 243
+  offset: 0, 0
+  index: -1
+images_eagle/Layer_7
+  rotate: true
+  xy: 723, 681
+  size: 335, 172
+  orig: 335, 172
+  offset: 0, 0
+  index: -1
+images_eagle/Layer_9
+  rotate: true
+  xy: 407, 675
+  size: 143, 151
+  orig: 143, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+pin_chest.png
+size: 856,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pin_chest/flear_1
+  rotate: false
+  xy: 564, 69
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+pin_chest/flear_2
+  rotate: false
+  xy: 388, 101
+  size: 272, 171
+  orig: 314, 205
+  offset: 21, 17
+  index: -1
+pin_chest/pin_chest_close
+  rotate: false
+  xy: 662, 118
+  size: 192, 154
+  orig: 194, 156
+  offset: 1, 1
+  index: -1
+pin_chest/pin_chest_open_d
+  rotate: false
+  xy: 388, 2
+  size: 174, 97
+  orig: 176, 99
+  offset: 1, 1
+  index: -1
+pin_chest/pin_chest_open_u
+  rotate: false
+  xy: 662, 3
+  size: 192, 113
+  orig: 192, 113
+  offset: 0, 0
+  index: -1
+pin_chest/pin_coin
+  rotate: false
+  xy: 2, 7
+  size: 384, 265
+  orig: 384, 265
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,384 @@
+
+spider.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_carnivorous/effect/1
+  rotate: false
+  xy: 996, 190
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/10
+  rotate: true
+  xy: 1190, 1414
+  size: 254, 546
+  orig: 254, 546
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/11
+  rotate: true
+  xy: 1311, 574
+  size: 244, 533
+  orig: 244, 533
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/12
+  rotate: true
+  xy: 1188, 1158
+  size: 254, 525
+  orig: 254, 525
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/13
+  rotate: false
+  xy: 1560, 147
+  size: 167, 425
+  orig: 167, 425
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/14
+  rotate: true
+  xy: 345, 226
+  size: 77, 256
+  orig: 77, 256
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/2
+  rotate: false
+  xy: 1080, 1156
+  size: 103, 212
+  orig: 103, 212
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/3
+  rotate: false
+  xy: 1715, 1078
+  size: 175, 334
+  orig: 175, 334
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/4
+  rotate: false
+  xy: 1055, 510
+  size: 254, 549
+  orig: 254, 549
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/5
+  rotate: true
+  xy: 1047, 254
+  size: 254, 511
+  orig: 254, 511
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/6
+  rotate: true
+  xy: 1523, 1801
+  size: 244, 522
+  orig: 244, 522
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/7
+  rotate: false
+  xy: 656, 162
+  size: 278, 527
+  orig: 278, 527
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/8
+  rotate: true
+  xy: 1311, 820
+  size: 244, 535
+  orig: 244, 535
+  offset: 0, 0
+  index: -1
+images_carnivorous/effect/9
+  rotate: false
+  xy: 9, 919
+  size: 254, 591
+  orig: 254, 591
+  offset: 0, 0
+  index: -1
+images_firespider/1
+  rotate: true
+  xy: 265, 913
+  size: 178, 241
+  orig: 178, 241
+  offset: 0, 0
+  index: -1
+images_firespider/2
+  rotate: false
+  xy: 265, 1093
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+images_firespider/3
+  rotate: true
+  xy: 1064, 1670
+  size: 375, 457
+  orig: 375, 457
+  offset: 0, 0
+  index: -1
+images_firespider/4
+  rotate: true
+  xy: 553, 1548
+  size: 497, 509
+  orig: 497, 509
+  offset: 0, 0
+  index: -1
+images_firespider/5
+  rotate: true
+  xy: 9, 1512
+  size: 533, 542
+  orig: 533, 542
+  offset: 0, 0
+  index: -1
+images_firespider/6
+  rotate: false
+  xy: 553, 1061
+  size: 525, 485
+  orig: 526, 486
+  offset: 0, 0
+  index: -1
+images_spider/18_Apple
+  rotate: false
+  xy: 551, 926
+  size: 103, 133
+  orig: 103, 133
+  offset: 0, 0
+  index: -1
+images_spider/18_SpiderNet
+  rotate: true
+  xy: 2, 305
+  size: 592, 652
+  orig: 609, 652
+  offset: 0, 0
+  index: -1
+images_spider/18_SpiderRope
+  rotate: false
+  xy: 2, 899
+  size: 5, 1146
+  orig: 5, 1146
+  offset: 0, 0
+  index: -1
+images_spider/39_Net
+  rotate: true
+  xy: 656, 691
+  size: 368, 397
+  orig: 368, 397
+  offset: 0, 0
+  index: -1
+images_spider/3_CrashEffect
+  rotate: false
+  xy: 1738, 1519
+  size: 177, 172
+  orig: 177, 172
+  offset: 0, 0
+  index: -1
+images_spider/Body
+  rotate: false
+  xy: 2, 46
+  size: 341, 257
+  orig: 341, 257
+  offset: 0, 0
+  index: -1
+images_spider/Body0
+  rotate: false
+  xy: 1064, 1553
+  size: 124, 115
+  orig: 127, 117
+  offset: 1, 1
+  index: -1
+images_spider/Layer 607
+  rotate: false
+  xy: 936, 138
+  size: 55, 63
+  orig: 57, 65
+  offset: 1, 1
+  index: -1
+images_spider/Layer 607 copy
+  rotate: true
+  xy: 738, 121
+  size: 39, 44
+  orig: 41, 46
+  offset: 1, 1
+  index: -1
+images_spider/Layer 608
+  rotate: false
+  xy: 508, 1041
+  size: 41, 50
+  orig: 43, 52
+  offset: 1, 1
+  index: -1
+images_spider/Layer 608 copy
+  rotate: false
+  xy: 599, 58
+  size: 27, 34
+  orig: 29, 36
+  offset: 1, 1
+  index: -1
+images_spider/Layer 609
+  rotate: false
+  xy: 999, 301
+  size: 39, 57
+  orig: 41, 59
+  offset: 1, 1
+  index: -1
+images_spider/Layer 609 copy
+  rotate: true
+  xy: 508, 904
+  size: 25, 39
+  orig: 27, 41
+  offset: 1, 1
+  index: -1
+images_spider/Layer 610
+  rotate: true
+  xy: 651, 88
+  size: 31, 47
+  orig: 33, 50
+  offset: 1, 1
+  index: -1
+images_spider/Layer 610 copy
+  rotate: true
+  xy: 549, 905
+  size: 19, 34
+  orig: 21, 36
+  offset: 1, 1
+  index: -1
+images_spider/Layer 613
+  rotate: false
+  xy: 567, 94
+  size: 32, 60
+  orig: 35, 64
+  offset: 1, 2
+  index: -1
+images_spider/Layer 614
+  rotate: false
+  xy: 508, 931
+  size: 40, 50
+  orig: 42, 52
+  offset: 1, 1
+  index: -1
+images_spider/Layer 615
+  rotate: false
+  xy: 603, 120
+  size: 46, 183
+  orig: 48, 187
+  offset: 1, 2
+  index: -1
+images_spider/Layer 616
+  rotate: false
+  xy: 508, 983
+  size: 40, 56
+  orig: 43, 58
+  offset: 2, 1
+  index: -1
+images_spider/Layer 617
+  rotate: true
+  xy: 1080, 1089
+  size: 65, 95
+  orig: 67, 97
+  offset: 1, 1
+  index: -1
+images_spider/Layer 618
+  rotate: true
+  xy: 345, 77
+  size: 147, 220
+  orig: 149, 222
+  offset: 1, 1
+  index: -1
+images_spider/Layer 619
+  rotate: true
+  xy: 936, 203
+  size: 69, 58
+  orig: 72, 60
+  offset: 1, 1
+  index: -1
+images_spider/Layer 620
+  rotate: false
+  xy: 1185, 1066
+  size: 133, 90
+  orig: 136, 92
+  offset: 2, 1
+  index: -1
+images_spider/Layer 621
+  rotate: false
+  xy: 936, 485
+  size: 109, 204
+  orig: 112, 207
+  offset: 1, 2
+  index: -1
+images_spider/Layer 622
+  rotate: false
+  xy: 651, 121
+  size: 85, 39
+  orig: 88, 41
+  offset: 1, 1
+  index: -1
+images_spider/Layer 623
+  rotate: false
+  xy: 1080, 1370
+  size: 106, 181
+  orig: 109, 184
+  offset: 2, 2
+  index: -1
+images_spider/Layer 627
+  rotate: false
+  xy: 936, 274
+  size: 61, 84
+  orig: 63, 86
+  offset: 1, 1
+  index: -1
+images_spider/Layer 628
+  rotate: false
+  xy: 567, 156
+  size: 32, 68
+  orig: 35, 71
+  offset: 2, 2
+  index: -1
+images_spider/Layer 629
+  rotate: false
+  xy: 784, 111
+  size: 27, 49
+  orig: 29, 52
+  offset: 1, 1
+  index: -1
+images_spider/Layer 635
+  rotate: false
+  xy: 567, 45
+  size: 30, 47
+  orig: 37, 49
+  offset: 6, 1
+  index: -1
+images_spider/Leg5
+  rotate: true
+  xy: 1670, 1693
+  size: 106, 127
+  orig: 108, 129
+  offset: 1, 1
+  index: -1
+images_spider/Leg6
+  rotate: true
+  xy: 1043, 84
+  size: 168, 172
+  orig: 168, 172
+  offset: 0, 0
+  index: -1
+images_spider/crown
+  rotate: true
+  xy: 936, 360
+  size: 123, 86
+  orig: 125, 88
+  offset: 1, 1
+  index: -1
+images_spider/head
+  rotate: false
+  xy: 1523, 1674
+  size: 145, 125
+  orig: 147, 127
+  offset: 1, 1
+  index: -1

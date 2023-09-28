@@ -1,0 +1,279 @@
+
+37_Native.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images2/skill_sw/0
+  rotate: false
+  xy: 295, 838
+  size: 104, 117
+  orig: 109, 122
+  offset: 2, 3
+  index: -1
+images2/skill_sw/1
+  rotate: true
+  xy: 157, 836
+  size: 119, 136
+  orig: 123, 142
+  offset: 1, 4
+  index: -1
+images2/skill_sw/2
+  rotate: true
+  xy: 680, 859
+  size: 118, 132
+  orig: 123, 141
+  offset: 2, 4
+  index: -1
+images2/skill_sw/3
+  rotate: false
+  xy: 401, 718
+  size: 119, 119
+  orig: 124, 126
+  offset: 2, 4
+  index: -1
+images2/skill_sw/4
+  rotate: true
+  xy: 295, 720
+  size: 116, 104
+  orig: 123, 109
+  offset: 3, 3
+  index: -1
+images2/skill_sw/5
+  rotate: false
+  xy: 2, 675
+  size: 96, 64
+  orig: 100, 70
+  offset: 1, 4
+  index: -1
+images_native/Asset 1
+  rotate: true
+  xy: 522, 730
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+images_native/Body
+  rotate: true
+  xy: 2, 809
+  size: 146, 153
+  orig: 146, 153
+  offset: 0, 0
+  index: -1
+images_native/armL1
+  rotate: true
+  xy: 155, 615
+  size: 43, 75
+  orig: 43, 75
+  offset: 0, 0
+  index: -1
+images_native/armL1B
+  rotate: false
+  xy: 241, 678
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+images_native/armL2
+  rotate: false
+  xy: 82, 616
+  size: 71, 49
+  orig: 71, 49
+  offset: 0, 0
+  index: -1
+images_native/armL2A
+  rotate: true
+  xy: 2, 567
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+images_native/dress
+  rotate: false
+  xy: 2, 741
+  size: 104, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+images_native/handL
+  rotate: false
+  xy: 522, 689
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+images_native/handL2
+  rotate: false
+  xy: 100, 667
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+images_native/handL2A
+  rotate: false
+  xy: 263, 802
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+images_native/head
+  rotate: false
+  xy: 680, 700
+  size: 124, 157
+  orig: 124, 157
+  offset: 0, 0
+  index: -1
+images_native/leg1
+  rotate: true
+  xy: 522, 803
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+images_native/leg1B
+  rotate: true
+  xy: 155, 717
+  size: 43, 84
+  orig: 43, 84
+  offset: 0, 0
+  index: -1
+images_native/leg2
+  rotate: true
+  xy: 522, 763
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+images_native/leg2A
+  rotate: false
+  xy: 962, 537
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+images_native/weapon
+  rotate: true
+  xy: 409, 979
+  size: 40, 405
+  orig: 41, 405
+  offset: 1, 0
+  index: -1
+images_native2/Body
+  rotate: true
+  xy: 806, 553
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+images_native2/armL1
+  rotate: true
+  xy: 295, 675
+  size: 43, 76
+  orig: 43, 76
+  offset: 0, 0
+  index: -1
+images_native2/armL1B
+  rotate: true
+  xy: 155, 660
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: -1
+images_native2/armL2
+  rotate: true
+  xy: 594, 750
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+images_native2/armL2A
+  rotate: true
+  xy: 2, 621
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+images_native2/dress
+  rotate: false
+  xy: 157, 762
+  size: 104, 72
+  orig: 104, 72
+  offset: 0, 0
+  index: -1
+images_native2/handL
+  rotate: false
+  xy: 568, 708
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+images_native2/handL2
+  rotate: true
+  xy: 236, 627
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+images_native2/handL2A
+  rotate: true
+  xy: 263, 767
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+images_native2/head
+  rotate: false
+  xy: 816, 801
+  size: 198, 218
+  orig: 198, 218
+  offset: 0, 0
+  index: -1
+images_native2/leg1
+  rotate: true
+  xy: 598, 802
+  size: 35, 73
+  orig: 35, 73
+  offset: 0, 0
+  index: -1
+images_native2/leg1B
+  rotate: false
+  xy: 108, 722
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+images_native2/leg2
+  rotate: true
+  xy: 81, 576
+  size: 38, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+images_native2/leg2A
+  rotate: false
+  xy: 962, 619
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+images_native2/weapon
+  rotate: false
+  xy: 2, 957
+  size: 405, 62
+  orig: 405, 62
+  offset: 0, 0
+  index: -1
+ob/31_Meat
+  rotate: false
+  xy: 409, 839
+  size: 269, 138
+  orig: 269, 138
+  offset: 0, 0
+  index: -1
+ob/Hero_Thigh
+  rotate: true
+  xy: 806, 702
+  size: 97, 198
+  orig: 97, 198
+  offset: 0, 0
+  index: -1

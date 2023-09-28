@@ -1,0 +1,272 @@
+
+Princess_dig.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_princess/Ear
+  rotate: true
+  xy: 271, 2
+  size: 27, 39
+  orig: 29, 41
+  offset: 1, 1
+  index: -1
+images_princess/Eye2_A copy 3
+  rotate: false
+  xy: 448, 3
+  size: 31, 29
+  orig: 34, 31
+  offset: 2, 1
+  index: -1
+images_princess/Eyebrown_angry
+  rotate: false
+  xy: 100, 8
+  size: 80, 19
+  orig: 83, 23
+  offset: 2, 2
+  index: -1
+images_princess/Eyebrown_normal
+  rotate: false
+  xy: 312, 17
+  size: 82, 12
+  orig: 85, 14
+  offset: 1, 1
+  index: -1
+images_princess/Eyebrown_sad
+  rotate: false
+  xy: 312, 5
+  size: 82, 10
+  orig: 84, 12
+  offset: 1, 1
+  index: -1
+images_princess/Face
+  rotate: false
+  xy: 376, 141
+  size: 143, 174
+  orig: 145, 180
+  offset: 1, 5
+  index: -1
+images_princess/Front Hair
+  rotate: false
+  xy: 1005, 306
+  size: 195, 204
+  orig: 195, 204
+  offset: 0, 0
+  index: -1
+images_princess/Layer 88 copy
+  rotate: false
+  xy: 392, 34
+  size: 89, 30
+  orig: 91, 32
+  offset: 1, 1
+  index: -1
+images_princess/Nose
+  rotate: false
+  xy: 635, 24
+  size: 19, 19
+  orig: 21, 23
+  offset: 1, 1
+  index: -1
+images_princess/Princess_bodytam/1
+  rotate: false
+  xy: 2, 2
+  size: 96, 61
+  orig: 98, 63
+  offset: 1, 1
+  index: -1
+images_princess/Princess_bodytam/2
+  rotate: true
+  xy: 440, 67
+  size: 72, 82
+  orig: 74, 84
+  offset: 1, 1
+  index: -1
+images_princess/Princess_bodytam/3
+  rotate: true
+  xy: 666, 193
+  size: 122, 101
+  orig: 124, 103
+  offset: 1, 1
+  index: -1
+images_princess/Princess_bodytam/Hand1
+  rotate: false
+  xy: 582, 86
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+images_princess/Princess_bodytam/Hand2
+  rotate: false
+  xy: 524, 80
+  size: 56, 59
+  orig: 58, 59
+  offset: 1, 0
+  index: -1
+images_princess/Princess_bodytam/HandL_1
+  rotate: true
+  xy: 506, 3
+  size: 35, 93
+  orig: 35, 101
+  offset: 0, 4
+  index: -1
+images_princess/Princess_bodytam/HandL_2
+  rotate: false
+  xy: 359, 66
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+images_princess/Princess_bodytam/HandR_1
+  rotate: true
+  xy: 213, 31
+  size: 32, 90
+  orig: 33, 90
+  offset: 1, 0
+  index: -1
+images_princess/Princess_bodytam/HandR_2
+  rotate: false
+  xy: 700, 93
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+images_princess/Princess_bodytam/dress
+  rotate: false
+  xy: 2, 137
+  size: 372, 373
+  orig: 372, 373
+  offset: 0, 0
+  index: -1
+images_princess/Princess_bodytam/ear
+  rotate: false
+  xy: 594, 42
+  size: 37, 42
+  orig: 39, 44
+  offset: 1, 1
+  index: -1
+images_princess/Princess_bodytam/face
+  rotate: false
+  xy: 521, 141
+  size: 143, 174
+  orig: 145, 180
+  offset: 1, 5
+  index: -1
+images_princess/Princess_bodytam/hair
+  rotate: true
+  xy: 794, 96
+  size: 219, 209
+  orig: 220, 209
+  offset: 0, 0
+  index: -1
+images_princess/eye_thoimien
+  rotate: false
+  xy: 305, 31
+  size: 85, 32
+  orig: 88, 35
+  offset: 2, 2
+  index: -1
+images_princess/eyelashes
+  rotate: false
+  xy: 100, 29
+  size: 111, 34
+  orig: 113, 36
+  offset: 1, 1
+  index: -1
+images_princess/eyescry
+  rotate: false
+  xy: 182, 11
+  size: 87, 16
+  orig: 91, 19
+  offset: 2, 1
+  index: -1
+images_princess/mount_thoimien
+  rotate: true
+  xy: 483, 40
+  size: 25, 22
+  orig: 27, 24
+  offset: 1, 1
+  index: -1
+images_princess/mouth_angry
+  rotate: false
+  xy: 507, 51
+  size: 33, 14
+  orig: 36, 16
+  offset: 1, 1
+  index: -1
+images_princess/mouth_bigsmile
+  rotate: false
+  xy: 633, 45
+  size: 29, 13
+  orig: 31, 15
+  offset: 1, 1
+  index: -1
+images_princess/mouth_o
+  rotate: true
+  xy: 635, 5
+  size: 17, 15
+  orig: 19, 18
+  offset: 1, 2
+  index: -1
+images_princess/mouth_smile
+  rotate: false
+  xy: 396, 2
+  size: 32, 9
+  orig: 36, 12
+  offset: 1, 1
+  index: -1
+images_princess/princessprincess_iriesL
+  rotate: false
+  xy: 633, 60
+  size: 17, 24
+  orig: 19, 26
+  offset: 1, 1
+  index: -1
+images_princess/princessprincess_iriesR
+  rotate: false
+  xy: 481, 7
+  size: 23, 25
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+ob/Decor_Bubble
+  rotate: false
+  xy: 601, 8
+  size: 32, 32
+  orig: 33, 34
+  offset: 1, 1
+  index: -1
+ob/Layer_1
+  rotate: true
+  xy: 2, 65
+  size: 70, 355
+  orig: 70, 355
+  offset: 0, 0
+  index: -1
+ob/Target2
+  rotate: false
+  xy: 376, 317
+  size: 527, 193
+  orig: 624, 256
+  offset: 48, 32
+  index: -1
+ob/not_nhac_3
+  rotate: true
+  xy: 644, 90
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+ob/not_nhac_5
+  rotate: true
+  xy: 396, 13
+  size: 19, 50
+  orig: 19, 50
+  offset: 0, 0
+  index: -1
+ob/not_nhac_7
+  rotate: true
+  xy: 542, 46
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1

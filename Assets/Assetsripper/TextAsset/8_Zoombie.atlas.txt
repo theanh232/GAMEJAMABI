@@ -1,0 +1,111 @@
+
+8_Zoombie.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_firespider/1
+  rotate: true
+  xy: 996, 950
+  size: 178, 241
+  orig: 178, 241
+  offset: 0, 0
+  index: -1
+images_firespider/2
+  rotate: true
+  xy: 996, 1130
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+images_firespider/3
+  rotate: true
+  xy: 537, 1038
+  size: 375, 457
+  orig: 375, 457
+  offset: 0, 0
+  index: -1
+images_firespider/4
+  rotate: true
+  xy: 2, 372
+  size: 497, 509
+  orig: 497, 509
+  offset: 0, 0
+  index: -1
+images_firespider/5
+  rotate: false
+  xy: 2, 871
+  size: 533, 542
+  orig: 533, 542
+  offset: 0, 0
+  index: -1
+images_firespider/6
+  rotate: false
+  xy: 513, 384
+  size: 525, 485
+  orig: 526, 486
+  offset: 0, 0
+  index: -1
+images_zomibie/Layer_10
+  rotate: false
+  xy: 1040, 707
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+images_zomibie/Layer_13
+  rotate: true
+  xy: 1026, 893
+  size: 55, 96
+  orig: 55, 96
+  offset: 0, 0
+  index: -1
+images_zomibie/Layer_14
+  rotate: false
+  xy: 954, 886
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+images_zomibie/Layer_2
+  rotate: false
+  xy: 737, 883
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+images_zomibie/Layer_3
+  rotate: false
+  xy: 702, 881
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+images_zomibie/Layer_6
+  rotate: true
+  xy: 702, 914
+  size: 122, 149
+  orig: 122, 149
+  offset: 0, 0
+  index: -1
+images_zomibie/Layer_7
+  rotate: false
+  xy: 537, 909
+  size: 163, 127
+  orig: 163, 127
+  offset: 0, 0
+  index: -1
+images_zomibie/Layer_8
+  rotate: false
+  xy: 853, 886
+  size: 99, 150
+  orig: 99, 150
+  offset: 0, 0
+  index: -1
+images_zomibie/Layer_9
+  rotate: true
+  xy: 1040, 797
+  size: 94, 52
+  orig: 94, 52
+  offset: 0, 0
+  index: -1

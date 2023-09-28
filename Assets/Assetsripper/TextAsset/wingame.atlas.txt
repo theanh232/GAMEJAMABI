@@ -1,0 +1,118 @@
+
+wingame.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2 copy 61
+  rotate: false
+  xy: 896, 207
+  size: 108, 150
+  orig: 108, 150
+  offset: 0, 0
+  index: -1
+Banner1
+  rotate: false
+  xy: 2, 768
+  size: 853, 254
+  orig: 853, 254
+  offset: 0, 0
+  index: -1
+Crown1
+  rotate: false
+  xy: 845, 359
+  size: 177, 173
+  orig: 179, 175
+  offset: 1, 1
+  index: -1
+Group 1
+  rotate: true
+  xy: 857, 534
+  size: 488, 120
+  orig: 490, 122
+  offset: 1, 1
+  index: -1
+Group 301
+  rotate: true
+  xy: 759, 512
+  size: 254, 84
+  orig: 256, 86
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: false
+  xy: 417, 553
+  size: 210, 99
+  orig: 212, 101
+  offset: 1, 1
+  index: -1
+Layer 169
+  rotate: false
+  xy: 2, 610
+  size: 285, 156
+  orig: 287, 158
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 534
+  size: 194, 74
+  orig: 196, 76
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 198, 553
+  size: 217, 55
+  orig: 219, 57
+  offset: 1, 1
+  index: -1
+Layer 36
+  rotate: true
+  xy: 655, 457
+  size: 309, 102
+  orig: 311, 104
+  offset: 1, 1
+  index: -1
+Layer_1
+  rotate: true
+  xy: 289, 654
+  size: 112, 364
+  orig: 143, 395
+  offset: 15, 15
+  index: -1
+Shield1
+  rotate: false
+  xy: 2, 209
+  size: 309, 323
+  orig: 311, 325
+  offset: 1, 1
+  index: -1
+Vector Smart Object
+  rotate: true
+  xy: 896, 70
+  size: 135, 109
+  orig: 137, 111
+  offset: 1, 1
+  index: -1
+Wing1 copy1
+  rotate: true
+  xy: 313, 96
+  size: 173, 158
+  orig: 173, 158
+  offset: 0, 0
+  index: -1
+glow_crown
+  rotate: true
+  xy: 611, 70
+  size: 287, 283
+  orig: 327, 323
+  offset: 20, 18
+  index: -1
+glow_wings
+  rotate: false
+  xy: 313, 271
+  size: 296, 280
+  orig: 296, 280
+  offset: 0, 0
+  index: -1
